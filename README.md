@@ -80,5 +80,5 @@ Aditya Kiran Mandhare
 
 <img src="screenshots/myGarden_mar.png" alt="Vegetable List" width="200" height="400"/><img src="screenshots/pests_detail_eng.png" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/notes.png" alt="Vegetable List" width="200" height="400"/>
 
-
-
+Thanks to azamsharp for vegetables json data !
+Thank you!!
