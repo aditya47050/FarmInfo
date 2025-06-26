@@ -1,0 +1,568 @@
+/*
+  Localizable.strings
+  FarmInfo
+
+  Created by Aditya on 25/06/25.
+*/
+
+//MARK: Vegetables
+"vegetable_4_name" = "गाजर";
+"vegetable_4_description" = "एक बहुमुखी मुळभाजी, सहसा नारिंगी पण जांभळा, लाल, पिवळा आणि पांढर्‍या रंगातही उपलब्ध. गाजर त्याच्या गोड चवी आणि उच्च बीटा-कॅरोटीन प्रमाणासाठी ओळखली जाते.";
+"vegetable_4_healthBenefits" = "बीटा-कॅरोटीनने समृद्ध, गाजर डोळ्यांचे आरोग्य सुधारतात, रोगप्रतिकारक शक्ती वाढवतात आणि त्वचेचा आरोग्य राखतात.";
+"vegetable_4_growingDescription" = "बियाणे काही आठवड्यांत अंकुरित होतात. पाणी देताना पाने ओलसर होऊ नयेत कारण सूर्यप्रकाशाने होणारी छिद्रे पडण्याची शक्यता असते.";
+"vegetable_4_harvestDescription" = "पृथ्वीवर उभा राहणारा भाग क्वार्टरच्या व्यासासारखा दिसताच गाजर काढा. कंद जंतू होऊ नयेत म्हणून काळजीपूर्वक खोदा.";
+"vegetable_4_seedDepth" = "1/4-1/2\" (6-13 मिमी)";
+"vegetable_4_watering" = "मध्यम, माती ओलसर ठेवा";
+"vegetable_4_light" = "पूर्ण सूर्यप्रकाश";
+"vegetable_4_goodCompanions" = "कांदा, लेक्स, कोशिंबीर";
+"vegetable_4_badCompanions" = "सोआ, पार्सनिप्स";
+
+// Continue similarly for other vegetables...
+
+"vegetable_7_name" = "तिखट मिरची";
+"vegetable_7_description" = "मसालेदार आणि उत्कट फळभाजी जी कोणत्याही पदार्थाला तिखटपणा वाढविते. यात विटामिन C आणि कॅप्सैसिन मुबलक प्रमाणात आढळते.";
+"vegetable_7_healthBenefits" = "कॅप्सैसिनमुळे वेदना कमी, पचन सुधारते आणि चयापचय वाढतो.";
+"vegetable_7_growingDescription" = "माती नीट ओलसर ठेवा. दर आठवड्याला किमान 1.5 इंच पाणी द्या. ऊपरी मल्च टाकून ओलावा टिकवून ठेवा.";
+"vegetable_7_harvestDescription" = "निरनिराळ्या आकारात मिरची तयार होते, त्या प्रमाणे ताबडतोब काढा. जितक्या वारंवार काढाल तितकी उत्पादनक्षमता वाढेल.";
+"vegetable_7_seedDepth" = "1/4 इंच (6 मिमी)";
+"vegetable_7_watering" = "मध्यम ते जास्त, आठवड्याला 1.5 इंच पाणी";
+"vegetable_7_light" = "पूर्ण सूर्यप्रकाश";
+"vegetable_7_goodCompanions" = "तुळस, गाजर, कांदा";
+"vegetable_7_badCompanions" = "शेंगा";
+
+"vegetable_8_name" = "हरभरा";
+"vegetable_8_description" = "बागेत सर्वात आवडती आणि टोमॅटो नंतर दुसरी लोकप्रिय. हरभरा कुरकुरीत, कोमल आणि तंतूंनी समृद्ध, स्टिर-फ्राय किंवा बाजूभाजी म्हणून उत्तम.";
+"vegetable_8_healthBenefits" = "तंतू आणि जीवनसत्त्वांनी समृद्ध, पचनसहाय्य आणि रोगप्रतिकारक शक्ती वाढवतात.";
+"vegetable_8_growingDescription" = "भाग स्वच्छ ठेवा, काधा लावू नका – त्या मुळे खते लुटतात. दररोज पाणी द्या. मल्च टाकल्यास ओलावा टिकतो.";
+"vegetable_8_harvestDescription" = "लांब आणि घट्ट हरभरा दिसताच काढा. जितके घेणार तितकी उत्पादन वाढते.";
+"vegetable_8_seedDepth" = "1 इंच (2.5 सेमी)";
+"vegetable_8_watering" = "नियमित, माती ओलसर ठेवा";
+"vegetable_8_light" = "पूर्ण सूर्यप्रकाश";
+"vegetable_8_goodCompanions" = "मका, काकडी, स्ट्रॉबेरी";
+"vegetable_8_badCompanions" = "कांदा, लसूण";
+
+"vegetable_9_name" = "कांदा";
+"vegetable_9_description" = "तीक्ष्ण आणि चवदार फ्लेव्हर असलेली स्वयंपाकघरातील गरजेची भाजी. कांद्याचा वापर सूप, स्ट्यू, सलाड आणि सॉते मध्ये होतो.";
+"vegetable_9_healthBenefits" = "अँटिऑक्सिडंट्स आणि जंतूनाशक संयुगांनी समृद्ध, सूज कमी आणि हृदयाचे आरोग्य वाढवते.";
+"vegetable_9_growingDescription" = "कांद्याची निवड करताना मजबूत आणि तणावप्रवण असावे. लहान खड्डा खोदून फक्त टिप बाहेर ठेवावी.";
+"vegetable_9_harvestDescription" = "प्रवेशाकडून कांदा काढा.";
+"vegetable_9_seedDepth" = "1/2 इंच (13 मिमी)";
+"vegetable_9_watering" = "हलके पण नियमित पाणी देणे";
+"vegetable_9_light" = "पूर्ण सूर्यप्रकाश";
+"vegetable_9_goodCompanions" = "गाजर, कोशिंबीर भाजी, बीट";
+"vegetable_9_badCompanions" = "शेंगा, वाटाणा";
+
+"vegetable_10_name" = "टॉमॅटो";
+"vegetable_10_description" = "रसाळ आणि चवदार फळ, भाजी समजले जाते. विविध रंग आणि प्रकारात, लाइकोपीनने समृद्ध.";
+"vegetable_10_healthBenefits" = "हृदयाचे आरोग्य उत्तम करणारे, सूज कमी करणारे आणि त्वचेचे आरोग्य सुधारणारे लाइकोपीनचा समृद्ध स्रोत.";
+"vegetable_10_growingDescription" = "थोडे उंच झाल्यावर व कमीत कमी 3 पाने झाल्यावर मातीखड्डा तयार करा. या प्रमाणे रोप लावा व लगेच पाणी द्या.";
+"vegetable_10_harvestDescription" = "फळ रंग बदलताच ताबडतोब काढा व आनंद घ्या.";
+"vegetable_10_seedDepth" = "1/4 इंच (6 मिमी)";
+"vegetable_10_watering" = "नियमितपणे, आठवड्याला 1–2 इंच";
+"vegetable_10_light" = "पूर्ण सूर्यप्रकाश";
+"vegetable_10_goodCompanions" = "तुळस, लसूण, झेंडू";
+"vegetable_10_badCompanions" = "मका, बडीशेप";
+
+
+//MARK: Vegetable 11 - Radish
+"vegetable_11_name" = "मूळा";
+"vegetable_11_description" = "मूळा (Raphanus sativus) ही कुरकुरीत आणि थोडीशी तिखट चव असलेली मुळे आहे, जी लाल, गुलाबी, पांढऱ्या व जांभळ्या रंगात उपलब्ध असते. ती मुख्यतः कोशिंबीर, गार्निश व स्लॉमध्ये वापरली जाते. मूळा कमी कॅलोरी आणि व्हिटॅमिन C ने समृद्ध असतो, जो रोगप्रतिकारक शक्ती वाढवतो व पचन सुधारतो.";
+"vegetable_11_healthBenefits" = "मूळा कमी कॅलोरी आणि भरपूर फायबरयुक्त असतो, त्यामुळे पचन सुधारतो व शरीर हायड्रेटेड राहतो.";
+"vegetable_11_growingDescription" = "मूळा दररोज पाणी देऊन वाढवा. त्याची वाढ एकसंध पाणी देण्यावर अवलंबून असते.";
+"vegetable_11_harvestDescription" = "जेव्हा मूळे सुमारे 1 इंच जाडीची होतात, तेव्हा ती जमिनीतून सरळ ओढून काढा.";
+"vegetable_11_seedDepth" = "1/2 इंच (13 मिमी)";
+"vegetable_11_watering" = "सम प्रमाणात आणि मध्यम";
+"vegetable_11_light" = "पूर्ण सूर्यप्रकाश";
+"vegetable_11_goodCompanions" = "शेंग, बीट, गाजर";
+"vegetable_11_badCompanions" = "बडीशेप";
+
+//MARK: Vegetable 13 - Arugula
+"vegetable_13_name" = "अरुगुला";
+"vegetable_13_description" = "अरुगुला (Eruca vesicaria) ही पानदार हिरव्या रंगाची भाजी आहे ज्याला रॉकेट असेही म्हणतात. याला वेगळा तिखट चव असतो. अरुगुलाचा उपयोग मुख्यतः कोशिंबिरी, सँडविच आणि पिझ्झा टॉपिंगसाठी होतो. हे अँटीऑक्सिडंट्स आणि जीवनसत्त्वे A, C, K ने समृद्ध आहे जे हाडांच्या आरोग्यासाठी, रोगप्रतिकारक शक्तीसाठी उपयुक्त आहे.";
+"vegetable_13_healthBenefits" = "अँटीऑक्सिडंट्स आणि जीवनसत्त्वांनी भरलेले अरुगुला हाडांच्या आरोग्यास चालना देतो आणि रोगप्रतिकारक शक्ती वाढवतो.";
+"vegetable_13_growingDescription" = "बोन्याबाबतची माहिती कृपया वाचा.";
+"vegetable_13_harvestDescription" = "पाने 2 ते 3 इंच लांब असताना कापावीत. ही अवस्था रोपांच्या अंकुरित होण्याच्या 2-3 आठवड्यांनंतर येते.";
+"vegetable_13_seedDepth" = "1/4 इंच (6 मिमी)";
+"vegetable_13_watering" = "मध्यम आणि सम प्रमाणात";
+"vegetable_13_light" = "पूर्ण सूर्यप्रकाश";
+"vegetable_13_goodCompanions" = "बुश शेंग, बीट, गाजर, अजवाइन, काकडी";
+"vegetable_13_badCompanions" = "हिरव्या शेंगा, स्ट्रॉबेरी";
+
+//MARK: Vegetable 14 - Corn
+"vegetable_14_name" = "मका";
+"vegetable_14_description" = "मका (Zea mays) हा एक बहुपयोगी व सर्वत्र उगम असलेला धान्यपिक आहे. याचे गोडसर व मऊ दाणे यासाठी प्रसिद्ध आहे. मका ताज्या, भाजलेल्या, उकडलेल्या किंवा सूप, कोशिंबीर व कॅसरोल मध्ये वापरला जातो. यामध्ये फायबर, जीवनसत्त्वे B व C आणि ल्यूटिनसारखे अँटीऑक्सिडंट्स असतात जे पचन, रोगप्रतिकारक शक्ती व डोळ्यांच्या आरोग्यासाठी उपयुक्त आहेत.";
+"vegetable_14_healthBenefits" = "मका ऊर्जा पुरवतो, अँटीऑक्सिडंट्सने भरलेला असून त्यातील ल्यूटिन डोळ्यांच्या आरोग्यास मदत करतो.";
+"vegetable_14_growingDescription" = "बिया व रांगा योग्य अंतरावर लावा. रांगेतील अंतर 36 इंच व बीजांचे अंतरही 36 इंच असावे. मका यासाठी परागण आवश्यक आहे.";
+"vegetable_14_harvestDescription" = "3 आठवडे झाल्यानंतर दाणे हाताळा. त्यात दूधासारखे द्रव असावे. दाणे दाबल्यावर द्रव बाहेर पडेल, जे कापणीसाठी तयार असल्याचे चिन्ह आहे.";
+"vegetable_14_seedDepth" = "1 इंच (2.5 सेमी)";
+"vegetable_14_watering" = "मध्यम ते जास्त";
+"vegetable_14_light" = "पूर्ण सूर्यप्रकाश";
+"vegetable_14_goodCompanions" = "बुश शेंग, बीट, कोबी, काकडी, मटर, भोपळा";
+"vegetable_14_badCompanions" = "टोमॅटो";
+
+
+
+//MARK: UI Labels (Marathi)
+"quick_facts_title" = "त्वरित माहिती";
+"seed_depth_title" = "बियाण्याची खोली";
+"germination_temp_title" = "अंकुर तापमान";
+"days_to_germination_title" = "अंकुरासाठी दिवस";
+"days_unit" = "दिवस";
+"light_requirement_title" = "प्रकाश गरज";
+"watering_title" = "पाणी देणे";
+"companions_title" = "समान जोडी";
+"bad_companions_title" = "कालावा जोडी";
+"health_benefits_title" = "आरोग्य फायदे";
+"pests_title" = "कीड";
+"growing_tips_title" = "लागवड टिप्स";
+"harvest_tips_title" = "कापणी टिप्स";
+"na_value" = "प्रा.अ.";
+"days_format" = "%d दिवस"; // Marathi
+"days"="दिवस";
+"Add_Note"="टीप जोडा";
+
+//MARK: Pests (Marathi)
+"pests_title" = "कीड";
+
+"pest_Carrot Fly_name" = "गाजर माशी";
+"pest_Carrot Fly_body" = "गाजर माशी (Psila rosae) एक काळ्या रंगाच्या शरीराची आणि नारिंगी डोक्याची कीड असून ती गाजर, पर्स्निप, सेलरी व इतर Apiaceae वनस्पतींना प्रभावित करते...";
+"pest_Carrot Fly_symptoms" = "मुळात जंग ऋष्ठे, पर्ण पिवळटपणा व झुडप झोपाळं, फाट पडणारी मुळे, विषबाधा.";
+"pest_Carrot Fly_treatment" = "जाळीनेटने झुडप झाकून अंडी पाडणे रोखावे, पिकफेरी करावी, प्रभावित झाडे काढून टाकावीत.";
+
+"pest_Aphids_name" = "एफिड्स";
+"pest_Aphids_body" = "एफिड्स लहान, मऊ शरीराच्या कीड आहेत, ज्या पाने व कांडातील रस घेतात...";
+"pest_Aphids_symptoms" = "पान वाकणे, पिवळट पडणे, चिकट हनीड्यू, अंडी व अळी.";
+"pest_Aphids_treatment" = "लॅडीबग्स व लेस-विंग्स सोबत आणा, जोराचा पाणी फवारून कीटक काढा, नीम तेल/इनस औद्य.";
+
+"pest_Pepper Weevil_name" = "मिरची व्युल";
+"pest_Pepper Weevil_body" = "मिरची व्युल (Anthonomus eugenii) एक लहान कोवळ्या रंगाची कीट आहे...";
+"pest_Pepper Weevil_symptoms" = "फुल व फळ पूर्वी पडणे, मणीवर पिवळट व उरल सुके.";
+"pest_Pepper Weevil_treatment" = "पेहरोमोन ट्रॅप व जैविक नियंत्रक. प्रभावित फळे काढा.";
+
+"pest_Thrips_name" = "थ्रिप्स";
+"pest_Thrips_body" = "थ्रिप्स लहान, सडपातळ कीट आहेत...";
+"pest_Thrips_symptoms" = "पानांवर चांदीसर डाग, वाढीत विकृती, काळे थुके.";
+"pest_Thrips_treatment" = "लेस-विंग्स व पायरट बग सोबत, चिकट ट्रॅप, नीम तेल.";
+
+"pest_Bean Beetle_name" = "हरभरा व्युल";
+"pest_Bean Beetle_body" = "हरभरा व्युल (cowpea weevil) शेंगीवर अंडी घालते...";
+"pest_Bean Beetle_symptoms" = "शेंग गोल, आत अळ्या.";
+"pest_Bean Beetle_treatment" = "हवा-रोधक डब्यात साठवा किंवा गोठव십시오.";
+
+"pest_Spider Mites_name" = "स्पायडर माईट";
+"pest_Spider Mites_body" = "लहान अ‍ॅरॅक्निड्स, रस शोषतात...";
+"pest_Spider Mites_symptoms" = "पानांवर डाग, जाळी.";
+"pest_Spider Mites_treatment" = "पाणी फवारले, नैसर्गिक शत्रू, नीम तेल.";
+
+"pest_Onion Fly_name" = "कांद्याची माशी";
+"pest_Onion Fly_body" = "कांद्याच्या कंदांवर अंडी घालणारी माशी...";
+"pest_Onion Fly_symptoms" = "पांढऱ्या, तपकिरी, कंद सडणे.";
+"pest_Onion Fly_treatment" = "जाळीनेट, फळीफेर, नॅमॅटोډ्स.";
+
+"pest_Tomato Hornworm_name" = "टोमॅटो हॉर्नवॉर्म";
+"pest_Tomato Hornworm_body" = "मोठी हिरवी अळी, शेवटी एक शिंगासारखा भुजा...";
+"pest_Tomato Hornworm_symptoms" = "पाने खातात, फुली पडतात, थुका.";
+"pest_Tomato Hornworm_treatment" = "हाताने काढा, Bt स्पिनोसा ड्या.";
+
+"pest_Whitefly_name" = "पांढ ­उडती कीड";
+"pest_Whitefly_body" = "पानांखाली लहान पांढरी कीडे, रस शोषतात...";
+"pest_Whitefly_symptoms" = "पान पिवळे होणे, चिकट मधरसा.";
+"pest_Whitefly_treatment" = "लॅडीबग, चिकट ट्रॅप, नीम तेल.";
+
+//MARK: Pests for Hot Pepper (vegetable_7)
+
+"pest_Pepper Weevil_name" = "मिरची कीटक";
+"pest_Pepper Weevil_body" = "मिरची कीटक (Anthonomus eugenii) हा एक लहान, गडद रंगाचा कोल्हा आहे ज्याचा शरीर अंडाकृती असून त्याचा मुखभाग लांबट आहे. हा मिरची आणि इतर सोलनसिया कुटुंबातील वनस्पतींना त्रास देणारा कीटक आहे, जो फुले आणि फळांना नुकसान करतो.";
+"pest_Pepper Weevil_symptoms" = "फुलं आणि फळे वेळेपूर्वी कोसळणे, खोड आणि कलिक्स पिवळे होणे, आणि फळांवर खालचे ठसे किंवा छिद्रे.";
+"pest_Pepper Weevil_treatment" = "फेरोमोन फंद्यांचा वापर करा आणि Catolaccus hunteri सारखे जैविक नियंत्रण करा. बाधित फळे काढून टाका आणि पीक बदल नियमित करा.";
+
+"pest_Aphids_name" = "एफिड्स";
+"pest_Aphids_body" = "लहान, मऊ शरीराचे कीटक जे वनस्पतींचा रस शोषतात, ज्यामुळे पाने वाकतात आणि पिवळी होतात.";
+"pest_Aphids_symptoms" = "पाने वाकणे, पिवळी होणे, चिकट मधरूप द्रव.";
+"pest_Aphids_treatment" = "लेडीबग सारखे नैसर्गिक शिकारी आणा, नीम तेल किंवा कीटकनाशक साबण फवारा.";
+
+//MARK: Pests for Green Beans (vegetable_8)
+
+"pest_Bean Beetle_name" = "शेंगदाणे कोल्हा";
+"pest_Bean Beetle_body" = "ज्याला काउपीवा कीटक देखील म्हणतात, तो फलींवर अंडी देतो. लार्वा आतून फलींना नुकसान करतात.";
+"pest_Bean Beetle_symptoms" = "खोखली फली, बिया मध्ये लार्वा, अंकुर कमी होणे.";
+"pest_Bean Beetle_treatment" = "फली हवाबंद कंटेनरमध्ये किंवा फ्रीजरमध्ये ठेवा. परजीवी पिढी किंवा सुरक्षित कीटकनाशक वापरा.";
+
+"pest_Thrips_name" = "थ्रिप्स";
+"pest_Thrips_body" = "लहान कीटक जे वनस्पतींच्या पृष्ठभागाला भेदून रस शोषतात.";
+"pest_Thrips_symptoms" = "पानांवर चांदीसारख्या पट्ट्या, विकृत वाढ, काळे मलद्रव्य.";
+"pest_Thrips_treatment" = "संपूर्ण जाळी वापरा, नीम तेल वापरा, आणि लेसविंगसारखे शिकारी आणा.";
+
+//MARK: Pests for Onion (vegetable_9)
+
+"pest_Onion Fly_name" = "कांदा माशी";
+"pest_Onion Fly_body" = "कांद्यावर अंडी घालणारी धूसर रंगाची माशी; लार्वा (मगॉट्स) बल्ब नष्ट करतात.";
+"pest_Onion Fly_symptoms" = "पानं मुरडणे, पिवळी होणे, सडलेले बल्ब ज्यात मगॉट्स दिसतात.";
+"pest_Onion Fly_treatment" = "जाळी वापरा, पीक बदल करा, निमाटोड्स लावा, बाधित वनस्पती काढा.";
+
+"pest_Aphids_name" = "एफिड्स";
+"pest_Aphids_body" = "मऊ शरीराचे कीटक जे रस शोषतात, ज्यामुळे पाने वाकतात आणि पिवळी होतात.";
+"pest_Aphids_symptoms" = "पानं वाकणे, पिवळी होणे, चिकट मध.";
+"pest_Aphids_treatment" = "लेडीबग आणा, नीम तेल किंवा कीटकनाशक साबण फवारा.";
+
+//MARK: Pests for Tomato (vegetable_10)
+
+"pest_Tomato Hornworm_name" = "टोमॅटो हॉर्नवर्म";
+"pest_Tomato Hornworm_body" = "मोठा हिरव्या रंगाचा किडा जो सिंगासह असतो. तो टोमॅटो, वांगी आणि मिरच्या खातो.";
+"pest_Tomato Hornworm_symptoms" = "खाल्लेल्या पाने, कीटकाचे मल (फ्रास), मोठे किडे.";
+"pest_Tomato Hornworm_treatment" = "हाताने काढा, Bt किंवा स्पायनोसॅड वापरा, परजीवी ततैया आमंत्रित करा.";
+
+"pest_Whitefly_name" = "व्हाईटफ्लाय";
+"pest_Whitefly_body" = "पानांच्या खालील बाजूस असलेले लहान फुलपाखरांप्रमाणे कीटक, जे रस शोषतात आणि रोग पसरवतात.";
+"pest_Whitefly_symptoms" = "पाने पिवळी होणे, चिकट मध, काळे पडणे.";
+"pest_Whitefly_treatment" = "लेडीबग वापरा, चिकट जाळी लावा, नीम तेल फवारणी करा, बाधित पाने काढा.";
+
+//MARK: Pests for Radish (vegetable_11)
+
+"pest_Root Maggot_name" = "मुळा मॅगॉट";
+"pest_Root Maggot_body" = "मशांच्या लार्वा जे मुळ्याच्या मुळांमध्ये भोक करतात, ज्यामुळे नुकसान आणि सडवण होते.";
+"pest_Root Maggot_symptoms" = "वनस्पती मुरडणे, मुळ्यांमध्ये भोक आणि सडण.";
+"pest_Root Maggot_treatment" = "अंडी घालण्यापासून रोखण्यासाठी रो कवर वापरा, पीक बदल करा, बाधित वनस्पती काढा.";
+
+"pest_Aphids_name" = "एफिड्स";
+"pest_Aphids_body" = "लहान रस शोषक कीटक जे पाने खराब करतात.";
+"pest_Aphids_symptoms" = "पानं वाकणे, चिकट मध.";
+"pest_Aphids_treatment" = "लेडीबग किंवा लेसविंग आणा, नीम तेल फवारणी करा.";
+
+//MARK: Pests for Arugula (vegetable_13)
+
+"pest_Cabbage Worm_name" = "कोबी की कृमी";
+"pest_Cabbage Worm_body" = "हिरव्या रंगाची कृमी जी पाने खातात, छिद्रे आणि सुकलेली पाने तयार करतात.";
+"pest_Cabbage Worm_symptoms" = "पानांमध्ये छिद्रे, हिरव्या कृमीचा उपस्थिती.";
+"pest_Cabbage Worm_treatment" = "हाताने काढा, Bt फवारणी करा, नैसर्गिक शिकारी वाढवा.";
+
+"pest_Flea Beetle_name" = "फ्ली बीटल";
+"pest_Flea Beetle_body" = "लहान उडणारे कोळहे जे पानांमध्ये छोटे छिद्रे करतात.";
+"pest_Flea Beetle_symptoms" = "पानांमध्ये छोटे छिद्रे, वाढ कमी होणे.";
+"pest_Flea Beetle_treatment" = "रो कवर वापरा, कीटकनाशक साबण लावा, पीक बदल करा.";
+
+//MARK: Pests for Corn (vegetable_14)
+
+"pest_Corn Earworm_name" = "मका कान कृमी";
+"pest_Corn Earworm_body" = "लार्वा जे मक्याच्या कानात भोक करतात आणि दाणे खातात.";
+"pest_Corn Earworm_symptoms" = "दाणे खराब होणे, कानांमध्ये लार्वा.";
+"pest_Corn Earworm_treatment" = "कीटकनाशक फवारणी करा, बाधित कान काढा, नैसर्गिक शिकारी वाढवा.";
+
+"pest_Spider Mites_name" = "स्पायडर माइट्स";
+"pest_Spider Mites_body" = "लहान मकडीसारखे कीटक जे वनस्पतींचा रस शोषतात, ज्यामुळे पाने पिवळी होतात आणि कोरडे होतात.";
+"pest_Spider Mites_symptoms" = "पिवळी पडलेली पाने, जाळे, वनस्पती कमजोर होणे.";
+"pest_Spider Mites_treatment" = "पाण्याची फवारणी करा, लेडीबग आणा, नीम किंवा हॉटिकल्चरल तेल लावा.";
+
+/* Cucumber - काकडी */
+
+"vegetable_16_name" = "काकडी";
+"vegetable_16_description" = "काकडी (Cucumis sativus) ताजी, कुरकुरीत भाजी आहे ज्याचा स्वाद सौम्य असतो. ती कच्च्या स्वरूपात, सॅलडमध्ये आणि स्नॅक्समध्ये वापरली जाते. काकडीमध्ये पाणी जास्त प्रमाणात असते, तसेच व्हिटॅमिन K आणि C व अँटीऑक्सिडंट्सही असतात, जे पचन सुधारतात आणि सूज कमी करतात. गरम हवामान आणि चांगल्या निचरलेल्या मातीमध्ये चांगले वाढते.";
+"vegetable_16_seedDepth" = "1/2-1\" (13-25 मिमी)";
+"vegetable_16_germinationSoilTemp" = "80-95°F (27-35°C)";
+"vegetable_16_daysToGermination" = "4 दिवस";
+"vegetable_16_sowIndoors" = "तुषारापूर्वी 3 आठवडे पेरणी करा";
+"vegetable_16_sowOutdoors" = "तुषारानंतर पेरणी करा";
+"vegetable_16_phRange" = "6.0-7.0";
+"vegetable_16_growingSoilTemp" = "70-80°F (21-27°C)";
+"vegetable_16_spacingBeds" = "36\" (90 सेमी)";
+"vegetable_16_watering" = "सुरुवातीला मध्यम, नंतर भरपूर पाणी द्या";
+"vegetable_16_light" = "पूर्ण उन्हाळा";
+"vegetable_16_goodCompanions" = "बश बीन्स, ब्रोकली, कोबी, वांगे";
+"vegetable_16_badCompanions" = "बटाटे";
+
+"vegetable_16_sowingDescription" = "काकडीची बिया आतमध्ये लावता येतात, पण त्यांना प्रत्यक्ष बागेत लावल्यास जास्त चांगले वाढते. बिया 2-3 इंच अंतरावर ठेवा.";
+"vegetable_16_growingDescription" = "काकडीला चांगल्या निचरलेल्या मातीची गरज असते. नायट्रोजनयुक्त खत द्या आणि भरपूर पाणी द्या.";
+"vegetable_16_harvestDescription" = "काकडी 7-9 इंच लांब आणि गडद हिरव्या रंगाची असताना कापून घ्या. मोठ्या काकड्या कडवट असू शकतात.";
+"vegetable_16_season" = "उन्हाळा";
+"vegetable_16_daysToHarvestSeeds" = "45 दिवस";
+"vegetable_16_daysToHarvestSeedlings" = "30 दिवस";
+"vegetable_16_healthBenefits" = "काकडी जलयोजन वाढवते आणि अँटीऑक्सिडंट्समुळे त्वचा व पचन सुधारते.";
+
+/* Pests for Cucumber */
+
+"pest_cucumber_beetles_name" = "काकडी बीटल";
+"pest_cucumber_beetles_description" = "काकडी बीटल लहान रंगीबेरंगी कीड आहेत, ज्या काकडी, भोपळा आणि टरबूज यांना हानी पोहोचवतात. त्यांचे शरीर पिवळ्या आणि काळ्या डागांनी भरलेले असते.";
+"pest_cucumber_beetles_symptoms" = "पानं व फुले तुटलेली व खाल्ली गेलीले दिसतात, फळांवर खुणा दिसतात.";
+"pest_cucumber_beetles_treatment" = "रो कव्हर वापरा, नीम तेल व कीटकनाशक साबण लावा, फायदेशीर कीटक वाढवा, फसल फेरफटका करा.";
+"pest_cucumber_beetles_photo" = "https://www.azamsharp.com/images/cucumber_beetles.png";
+
+"pest_squash_bugs_name" = "स्क्वैश बग्स";
+"pest_squash_bugs_description" = "स्क्वैश बग्स (Anasa tristis) भूरे रंगाचे कीटक आहेत जे कद्दू आणि संबंधित फुलझाडांना नुकसान करतात.";
+"pest_squash_bugs_symptoms" = "पानं पिवळी व मुरडलेली दिसतात, खाली अंडी असतात.";
+"pest_squash_bugs_treatment" = "कीटक काढा, अंडी नष्ट करा, रो कव्हर वापरा, नीम तेल वापरा.";
+"pest_squash_bugs_photo" = "https://www.azamsharp.com/images/squash_bugs.png";
+
+
+/* Eggplant - वांगे */
+
+"vegetable_17_name" = "वांगे";
+"vegetable_17_description" = "वांगे (Solanum melongena) हा एक चमकदार, खोल जांभळ्या रंगाचा भाजीपाला आहे ज्याची पोत स्पंजी आणि चव सौम्य असते. तो विविध स्वयंपाकात वापरला जातो जसे रॅटाटुई, करी, आणि कॅस्सरोल्स मध्ये. वांगे फायबर, अँटीऑक्सिडंट्स (नासुनीन सारखे), आणि व्हिटॅमिन B आणि K यांनी भरलेले आहेत, जे हृदय, मेंदू आणि पचनासाठी फायदेशीर आहेत. गरम हवामान आणि पूर्ण उन्हात चांगले वाढतात.";
+
+"vegetable_17_seedDepth" = "1/4\" (6 मिमी)";
+"vegetable_17_germinationSoilTemp" = "85°F (29°C)";
+"vegetable_17_daysToGermination" = "7 दिवस";
+"vegetable_17_sowIndoors" = "गारपिटीच्या 5 आठवडे आधी पेरणी करा";
+"vegetable_17_sowOutdoors" = "शिफारस नाही";
+"vegetable_17_phRange" = "5.5 - 7.0";
+"vegetable_17_growingSoilTemp" = "80-90°F (27-32°C)";
+"vegetable_17_spacingBeds" = "18\" (45 सेमी)";
+"vegetable_17_watering" = "भरपूर पाणी द्या";
+"vegetable_17_light" = "पूर्ण उन्हाळा";
+"vegetable_17_goodCompanions" = "बश बीन्स, वाटाणे, मिरची, बटाटे";
+"vegetable_17_badCompanions" = "शेप";
+
+"vegetable_17_sowingDescription" = "वांगेचे बियाणे लहान झाडांमध्ये 1/4 इंच खोल पेरावीत. बियाणे चांगले ओले ठेवा आणि गमला प्लास्टिकने झाकून ठेवू शकता.";
+
+"vegetable_17_growingDescription" = "झाडं बागेत लावल्यानंतर रो कव्हर आणि मल्च वापरा ज्यामुळे तापमान स्थिर राहील आणि कीटकांपासून संरक्षण होईल. वांगे अनेक कीटकांना आवडतात त्यामुळे काळजी घ्या.";
+
+"vegetable_17_harvestDescription" = "वांगे जेव्हा त्याचा आकार अर्धवट पूर्ण होतो तेव्हा तो कापून घ्या, ज्यामुळे तो मऊ आणि स्वादिष्ट राहतो. कापताना काही कापडी सोडणे आवश्यक आहे.";
+
+"vegetable_17_season" = "उन्हाळा";
+
+"vegetable_17_daysToHarvestSeeds" = "80 दिवस";
+"vegetable_17_daysToHarvestSeedlings" = "60 दिवस";
+
+"vegetable_17_healthBenefits" = "वांगेमध्ये नासुनीन सारखे अँटीऑक्सिडंट्स असतात जे मेंदूचे रक्षण करतात आणि सूज कमी करतात.";
+
+/* Pests for Eggplant */
+
+"pest_flea_beetles_name" = "फ्ली बीटल";
+"pest_flea_beetles_description" = "फ्ली बीटल हे छोटे, उडी मारणारे कीटक आहेत जे टोमॅटो, बटाटे, वांगे आणि पानफुलांनी भरलेल्या वनस्पतींना हानी पोहचवतात. ते त्रासल्यावर उडी मारतात. त्यांचे खाणे पानांमध्ये लहान छिद्रे निर्माण करते.";
+"pest_flea_beetles_symptoms" = "बाधित झाडांवर पानांवर छोटे, गोल छिद्रे दिसतात, जे 'शॉट-होल' सारखे असतात. तरूण झाडे विशेषतः प्रभावित होतात.";
+"pest_flea_beetles_treatment" = "फ्ली बीटलपासून संरक्षणासाठी रो कव्हर वापरा. डायटोमेसीअस अर्थ झाडांच्या आसपास पांडा. नीम तेल आणि कीटकनाशक साबण वापरा. रेडिश सारख्या फुलांच्या फुलांची लागवड करा. फळफुलांचा फेरफटका करा.";
+"pest_flea_beetles_photo" = "https://www.azamsharp.com/images/flea_beetles.png";
+
+"pest_spider_mites_name" = "स्पायडर माइट्स";
+"pest_spider_mites_description" = "स्पायडर माइट्स हे लहान जंतू आहेत जे वनस्पतींचा रस चाटतात. हे विशेषत: गरम, कोरड्या हवामानात प्रादुर्भाव करतात आणि पाने खाली जाळी विणतात.";
+"pest_spider_mites_symptoms" = "बाधित झाडांवर पाने पिवळी, डागदार व कोरडी होतात, आणि पानांच्या खाली जाळी दिसते.";
+"pest_spider_mites_treatment" = "झाडांवर जोरदार पाण्याचा फवारा करा ज्याने स्पायडर माइट्स निघून जातात. नैसर्गिक शिकारी जसे लेडीबग वाढवा. नीम तेल किंवा कीटकनाशक साबण वापरा. योग्य ओलावा ठेवा.";
+"pest_spider_mites_photo" = "https://www.azamsharp.com/images/spider_mites.png";
+
+
+/* Celery - अजमोद */
+
+"vegetable_18_name" = "अजमोद";
+"vegetable_18_description" = "अजमोद (Apium graveolens) हा कुरकुरीत, फायबरयुक्त भाजीपाला आहे जो सौम्य, ताजा चव आणि स्वयंपाकात बहुमुखीतेसाठी प्रसिद्ध आहे. तो कमी कॅलरी, अँटीऑक्सिडंट्स, व्हिटॅमिन K आणि C, आणि फायबरने भरलेला आहे, जो पाचन, सूज कमी करणे आणि हृदयासाठी उपयुक्त आहे. तो थंड आणि आर्द्र हवामानात चांगला वाढतो.";
+
+"vegetable_18_seedDepth" = "थोडे मातीने झाका";
+"vegetable_18_germinationSoilTemp" = "70°F (21°C)";
+"vegetable_18_daysToGermination" = "7 दिवस";
+"vegetable_18_sowIndoors" = "तुषारापूर्वी 10 आठवडे पेरणी करा";
+"vegetable_18_sowOutdoors" = "शिफारस नाही";
+"vegetable_18_phRange" = "6.0-7.0";
+"vegetable_18_growingSoilTemp" = "60-70°F (16-21°C)";
+"vegetable_18_spacingBeds" = "8\" (20 सेमी)";
+"vegetable_18_watering" = "भरपूर आणि समान";
+"vegetable_18_light" = "पूर्ण उन्हाळा";
+"vegetable_18_goodCompanions" = "सर्व";
+"vegetable_18_badCompanions" = "गाजर, अजमोद, पार्सनिप";
+
+"vegetable_18_sowingDescription" = "मातीमध्ये कंपोस्ट किंवा खत मिसळा. अजमोद बिया 2 दिवस पाण्यात भिजवा. बाहेर तापमान किमान 55°F असावे. बिया लावा आणि मातीने झाका.";
+
+"vegetable_18_growingDescription" = "अंकुरणाच्या वेळी माती ओलसर ठेवा. हलके पाणी द्या जेणेकरून बिया वाहून जात नाहीत. झाडाभोवती मल्च करा ज्यामुळे ओलावा टिकतो आणि गवत नाही वाढत.";
+
+"vegetable_18_harvestDescription" = "सुमारे 5 महिन्यांत पूर्ण झाड कापायला तयार होते.";
+
+"vegetable_18_season" = "उन्हाळा, वसंत, हिवाळा, पावसाळा";
+
+"vegetable_18_daysToHarvestSeeds" = "80 दिवस";
+"vegetable_18_daysToHarvestSeedlings" = "56 दिवस";
+
+"vegetable_18_healthBenefits" = "अजमोद कमी कॅलरी आणि अँटीऑक्सिडंट्सने भरलेला आहे, जो हृदयासाठी फायदेशीर आहे आणि सूज कमी करतो.";
+
+/* Pests for Celery */
+
+"pest_aphids_name" = "एफिड्स";
+"pest_aphids_description" = "एफिड्स लहान, मऊ शरीराचे कीटक आहेत, जे हिरवट, पिवळट, तपकिरी, लाल किंवा काळ्या रंगाचे असतात. ते झाडांचा रस चाटतात आणि वेगाने वाढतात.";
+"pest_aphids_symptoms" = "बाधित झाडांची पाने वाकलेली, पिवळी आणि वाढ थांबलेली दिसतात, तसेच पाने आणि काठीवर चिकट द्रव (हनीड्यू) असतो.";
+"pest_aphids_treatment" = "लॅडीबग्स, लेसविंग्स किंवा परजीवी ततैया यांसारखे नैसर्गिक शिकारी आणा. झाडांवर जोरदार पाण्याचा फवारा करा. नीम तेल किंवा कीटकनाशक साबण वापरा. बाधित भाग काढून टाका.";
+"pest_aphids_photo" = "https://www.azamsharp.com/images/aphids.png";
+
+"pest_carrot_weevils_name" = "गाजर वीविल";
+"pest_carrot_weevils_description" = "गाजर वीविल (Listronotus oregonensis) हे लहान तपकिरी रंगाचे कीटक आहेत जे गाजर आणि त्यासंबंधित वनस्पतींना नुकसान करतात.";
+"pest_carrot_weevils_symptoms" = "गाजरांच्या मुळांवर लहान छिद्रे व सुरंग दिसतात, ज्यामुळे सड आणि संसर्ग होतो.";
+"pest_carrot_weevils_treatment" = "फ्लोटिंग रो कव्हर वापरा. बाग साफ करा आणि फसल फेरफटका करा. उपयोगी निमेटोड्स वापरा. गरज असल्यास कीटकनाशक वापरा.";
+"pest_carrot_weevils_photo" = "https://www.azamsharp.com/images/carrot_weevils.png";
+
+
+/* Broccoli - ब्रोकोली */
+
+"vegetable_19_name" = "ब्रोकोली";
+"vegetable_19_description" = "ब्रोकोली (Brassica oleracea var. italica) पोषक घटकांनी भरलेली भाजी आहे, ज्याचे फुले वृक्षासारखी आणि किंचित तिखट चव असते. ती वाफवून, भाजून किंवा सॅलडमध्ये वापरली जाते. ब्रोकोली व्हिटॅमिन C, K, फायबर आणि अँटीऑक्सिडंट्सने समृद्ध आहे. थंड हवामानात चांगली वाढ होते.";
+
+"vegetable_19_seedDepth" = "1/4\" (6 मिमी)";
+"vegetable_19_germinationSoilTemp" = "80°F (27°C)";
+"vegetable_19_daysToGermination" = "7 दिवस";
+"vegetable_19_sowIndoors" = "गारपिटीच्या 7 आठवडे आधी पेरणी करा";
+"vegetable_19_sowOutdoors" = "सुरुवातीच्या उन्हाळ्यात";
+"vegetable_19_phRange" = "6.5-7.5";
+"vegetable_19_growingSoilTemp" = "60-65°F (16-18°C)";
+"vegetable_19_spacingBeds" = "16\" (40 सेमी)";
+"vegetable_19_watering" = "मध्यम आणि समान";
+"vegetable_19_light" = "पूर्ण उन्हाळा किंवा अंशतः सावली";
+"vegetable_19_goodCompanions" = "बश बीन्स, बीट, गाजर, अजमोद";
+"vegetable_19_badCompanions" = "पोल आणि स्नॅप बीन्स, स्ट्रॉबेरी";
+
+"vegetable_19_sowingDescription" = "ब्रोकोली हळू वाढणारी भाजी आहे. गारपिटीच्या 4-6 आठवडे आधी आतमध्ये पेरणी करा. कमीत कमी 8 तास उन्हाळा लागेल अशी जागा निवडा. मातीमध्ये कंपोस्ट व खत मिसळा. ब्रोकोली वसंत किंवा पावसाळा हंगामात लावा.";
+
+"vegetable_19_growingDescription" = "झाडांना चांगल्या ओलाव्याची गरज आहे. गवत आणि कीटकांपासून संरक्षण करा.";
+
+"vegetable_19_harvestDescription" = "ब्रोकोली 60-70 दिवसांनी पूर्ण होते. फुलांच्या खाली कापून घ्या.";
+
+"vegetable_19_season" = "पावसाळा, वसंत, उन्हाळा, हिवाळा";
+
+"vegetable_19_daysToHarvestSeeds" = "75 दिवस";
+"vegetable_19_daysToHarvestSeedlings" = "60 दिवस";
+
+"vegetable_19_healthBenefits" = "ब्रोकोली व्हिटॅमिन C, K व फायबरने भरलेली आहे, जी हाडे मजबूत करते आणि कर्करोगापासून बचाव करते.";
+
+/* Pests for Broccoli */
+
+"pest_cabbage_worms_name" = "कोबी वर्म्स";
+"pest_cabbage_worms_description" = "कोबी वर्म्स (हिरवे लेटरपिलर) ब्रोकली आणि इतर क्रुसिफेरस भाजींना नुकसान करतात. ते पाने खाऊन छिद्रे करतात.";
+"pest_cabbage_worms_symptoms" = "पानांवर छोटे छिद्रे व बुरशीचे ठिपके दिसतात.";
+"pest_cabbage_worms_treatment" = "बायोलॉजिकल स्प्रे (जसे की बॅक्टीरियम थुरिंगिएन्सिस) वापरा. कीटक हाताने काढा.";
+"pest_cabbage_worms_photo" = "https://www.azamsharp.com/images/cabbage_worms.png";
+
+"pest_aphids_name" = "एफिड्स";
+"pest_aphids_description" = "एफिड्स लहान, मऊ शरीराचे कीटक आहेत, जे झाडाचा रस चाटतात आणि झपाट्याने वाढतात.";
+"pest_aphids_symptoms" = "झाडांची पाने वाकलेली, पिवळी व वाढ थांबलेली दिसतात, तसेच चिकट द्रव (हनीड्यू) असतो.";
+"pest_aphids_treatment" = "लॅडीबग्स, लेसविंग्स, परजीवी ततैया यांसारखे नैसर्गिक शिकारी आणा. जोरदार पाणी फवारणी करा. नीम तेल व कीटकनाशक साबण वापरा.";
+"pest_aphids_photo" = "https://www.azamsharp.com/images/aphids.png";
+
+
+/* Potato - बटाटा */
+
+"vegetable_20_name" = "बटाटा";
+"vegetable_20_description" = "बटाटा (Solanum tuberosum) एक बहुपयोगी कंद आहे जो जगभरात खाल्ला जातो. बटाट्यात व्हिटॅमिन C, B6, फायबर आणि पोटॅशियम असतो. तो थंड हवामानात चांगला वाढतो आणि विविध पदार्थांमध्ये वापरला जातो.";
+
+"vegetable_20_seedDepth" = "4\" (10 सेमी)";
+"vegetable_20_germinationSoilTemp" = "45-55°F (7-13°C)";
+"vegetable_20_daysToGermination" = "14 दिवस";
+"vegetable_20_sowIndoors" = "शिफारस नाही";
+"vegetable_20_sowOutdoors" = "नंतर बागेत पेरणी करा";
+"vegetable_20_phRange" = "5.0-6.0";
+"vegetable_20_growingSoilTemp" = "60-70°F (16-21°C)";
+"vegetable_20_spacingBeds" = "12\" (30 सेमी)";
+"vegetable_20_watering" = "मध्यम आणि समान";
+"vegetable_20_light" = "पूर्ण उन्हाळा";
+"vegetable_20_goodCompanions" = "वाटाणा, कोबी, मिरची";
+"vegetable_20_badCompanions" = "टोमॅटो, वांगे";
+
+"vegetable_20_sowingDescription" = "बागेत उगवलेले बटाट्याचे तुकडे पेरावेत, प्रत्येक तुकडा 4\" खोल द्या. माती ओलसर ठेवा.";
+
+"vegetable_20_growingDescription" = "बटाट्याला मध्यम पाणी आणि उन्हाची गरज असते. फसल फेरफटका व मल्चिंग करा.";
+
+"vegetable_20_harvestDescription" = "पाने कोमेजायला लागल्यावर बटाट्याची कापणी करा.";
+
+"vegetable_20_season" = "वसंत, हिवाळा";
+
+"vegetable_20_daysToHarvestSeeds" = "उपलब्ध नाही";
+"vegetable_20_daysToHarvestSeedlings" = "90 दिवस";
+
+"vegetable_20_healthBenefits" = "बटाट्यात व्हिटॅमिन C, पोटॅशियम आणि फायबर आहे, जे पचन व हृदयासाठी फायदेशीर आहे.";
+
+/* Pests for Potato */
+
+"pest_potato_beetles_name" = "बटाटा बीटल";
+"pest_potato_beetles_description" = "बटाटा बीटल हा एक प्रमुख कीड आहे जो बटाट्याच्या पानांना नुकसान करतो. त्याच्या शरीरावर पिवळ्या आणि काळ्या रंगाच्या पट्ट्या असतात.";
+"pest_potato_beetles_symptoms" = "बाधित पाने खुरदुरी आणि छिद्रयुक्त होतात.";
+"pest_potato_beetles_treatment" = "कीटकनाशक वापरा. फसल फेरफटका करा. फायदेशीर कीटक वाढवा.";
+"pest_potato_beetles_photo" = "https://www.azamsharp.com/images/potato_beetles.png";
+
+"pest_wireworms_name" = "वायरवर्म्स";
+"pest_wireworms_description" = "वायरवर्म्स जमिनीखाली राहणारे कीटकांचे लार्वा आहेत जे बटाट्याच्या कंदाला नुकसान करतात.";
+"pest_wireworms_symptoms" = "कंदावर छोटे छिद्र आणि सुरंग असतात.";
+"pest_wireworms_treatment" = "फसल फेरफटका करा. माती खोल नांगरणी करा. नैसर्गिक शिकारी वाढवा.";
+"pest_wireworms_photo" = "https://www.azamsharp.com/images/wireworms.png";
+
+//MARK: Vegetables - Lettuce
+
+"vegetable_21_name" = "लेट्यूस";
+"vegetable_21_description" = "लेट्यूस (Lactuca sativa) ही एक पालेभाजी आहे, जी तिच्या कुरकुरीत पोतासाठी आणि सौम्य चवेसाठी ओळखली जाते. मुख्यतः सॅलड्समध्ये वापरली जाते, तसेच रॅप्स, सॅंडविचेस आणि सजावटीसाठी देखील वापरली जाते. यामध्ये कॅलरीज कमी आणि जीवनसत्त्व A व K भरपूर प्रमाणात असतात, जे त्वचेच्या आरोग्यासाठी, हाडांच्या मजबुतीसाठी आणि पाण्याची पातळी टिकवून ठेवण्यासाठी उपयुक्त आहेत.";
+"vegetable_21_seedDepth" = "1/4-1/2\" (6-13 मिमी)";
+"vegetable_21_germinationSoilTemp" = "40-60 F (4-16 C)";
+"vegetable_21_daysToGermination" = "14 दिवस";
+"vegetable_21_sowIndoors" = "रोपांतरापूर्वी 4 आठवडे";
+"vegetable_21_sowOutdoors" = "सज्ज मातीवर";
+"vegetable_21_phRange" = "6.5-7.0";
+"vegetable_21_growingSoilTemp" = "55-65 F (13-18 C)";
+"vegetable_21_spacingBeds" = "1/2\" (1.3 सेमी)";
+"vegetable_21_watering" = "हलकं ते मध्यम";
+"vegetable_21_light" = "पूर्ण सूर्यप्रकाश";
+"vegetable_21_goodCompanions" = "गाजर, एंडिव्ह, आर्टिचोक";
+"vegetable_21_badCompanions" = "काही नाही";
+"vegetable_21_sowingDescription" = "लेट्यूस ही थंड हवामानात चांगली वाढणारी भाजी आहे. रोपे नर्सरीमधून घेता येतात. उन्हाळ्याच्या सुरुवातीला बिया बाहेर लावणे सर्वोत्तम आहे. पूर्ण सूर्यप्रकाश असलेल्या ठिकाणी लागवड करा.";
+"vegetable_21_growingDescription" = "लेट्यूसच्या प्रकारानुसार झाडांमधील अंतर ठरवा. माती ओलसर ठेवावी पण पाण्याचा अतिरेक टाळावा. जास्त पाणी फंगल संसर्ग किंवा मुळं कुजवू शकते.";
+"vegetable_21_harvestDescription" = "पानं पुरेशी मोठी झाली की त्यांची कापणी करा. जेव्हा डोके पूर्ण तयार होईल तेव्हा कापा.";
+"vegetable_21_season" = "हिवाळा, वसंत, उन्हाळा, शरद";
+"vegetable_21_daysToHarvestSeeds" = "75 दिवस";
+"vegetable_21_daysToHarvestSeedlings" = "60 दिवस";
+"vegetable_21_healthBenefits" = "लेट्यूसमध्ये कॅलरी कमी आणि जीवनसत्त्वं जास्त आहेत, जे हायड्रेशन व संपूर्ण आरोग्यास मदत करतात.";
+
+//MARK: Pests for Lettuce (vegetable_21)
+
+"pest_Aphids_name" = "अ‍ॅफिड्स";
+"pest_Aphids_body" = "अ‍ॅफिड्स हे लहान, मऊ शरीराचे कीटक आहेत, जे झाडांच्या पानांमधून रस शोषतात. हे वेगवेगळ्या रंगांमध्ये आढळतात आणि लवकर वाढतात.";
+"pest_Aphids_symptoms" = "संक्रमित झाडांच्या पानांमध्ये वाकडेपणा, पिवळेपणा आणि चिकटपणा दिसतो. सोबतच काळी बुरशीही दिसू शकते.";
+"pest_Aphids_treatment" = "लेडीबर्ड्स आणि ततैया यांसारखे उपयुक्त कीटक सोडा. पाणी मारून कीटक काढा किंवा नीम तेल फवारणी करा.";
+
+"pest_Leaf Miners_name" = "लीफ माइनर्स";
+"pest_Leaf Miners_body" = "लीफ माइनर्स हे विविध कीटकांच्या अळ्या असतात ज्या पानांच्या आतील भाग खाऊन टनल तयार करतात.";
+"pest_Leaf Miners_symptoms" = "संक्रमित पानांवर पांढऱ्या रेषा किंवा चक्राकार टनल्स दिसतात. नंतर त्या तपकिरी होतात.";
+"pest_Leaf Miners_treatment" = "संक्रमित पाने काढून फेकून द्या. नीम तेल फवारणी करा. उपयुक्त परजीवी कीटकांचा उपयोग करा.";
+
+//MARK: Vegetables - Cauliflower
+
+"vegetable_22_name" = "फूलगोभी";
+"vegetable_22_description" = "फूलगोभी (Brassica oleracea var. botrytis) ही एक पौष्टिक क्रूसीफेरस भाजी आहे, ज्यात घट्ट पांढऱ्या फुल्या आणि सौम्य चव असते. ती भाजून, वाफवून, मैश करून किंवा लो-कार्ब पर्याय म्हणून वापरली जाते. यामध्ये जीवनसत्त्व C आणि K, फायबर व अँटीऑक्सिडंट्स असतात, जे रोगप्रतिकारक शक्ती, हाडं आणि पचनासाठी उपयुक्त असतात.";
+"vegetable_22_seedDepth" = "1/4-1/2\" (6-13 मिमी)";
+"vegetable_22_germinationSoilTemp" = "80 F (27 C)";
+"vegetable_22_daysToGermination" = "6 दिवस";
+"vegetable_22_sowIndoors" = "थंडीच्या 4-6 आठवडे आधी";
+"vegetable_22_sowOutdoors" = "थंडीपासून उशिरा वसंतापर्यंत";
+"vegetable_22_phRange" = "6.5-7.5";
+"vegetable_22_growingSoilTemp" = "60-70 F (16-21 C)";
+"vegetable_22_spacingBeds" = "15\" (37.5 सेमी)";
+"vegetable_22_watering" = "मध्यम आणि नियमित";
+"vegetable_22_light" = "पूर्ण सूर्यप्रकाश";
+"vegetable_22_goodCompanions" = "शेंगदाणे, बीट, गाजर, अजवाइन, काकडी, पालक";
+"vegetable_22_badCompanions" = "हरी शेंगा, स्ट्रॉबेरी";
+"vegetable_22_sowingDescription" = "फूलगोभी नायट्रोजनयुक्त मातीत चांगली वाढते. सेंद्रिय खत आणि कंपोस्ट मिक्स करा. 1/4 ते 1/2 इंच खोल बियाणे बोवा. माती ओलसर ठेवा पण जास्त नको.";
+"vegetable_22_growingDescription" = "माती ओलसर राहील यासाठी मल्च लावा. मल्च मुळे तणही कमी होईल. फिश फर्टिलायझर वापरल्यास वाढ जलद होईल.";
+"vegetable_22_harvestDescription" = "जेव्हा डोके 6 ते 12 इंचाचे होईल, तेव्हा फुलगोभी कापायला तयार आहे. डोक्याच्या खाली कापा.";
+"vegetable_22_season" = "शरद";
+"vegetable_22_daysToHarvestSeeds" = "60 दिवस";
+"vegetable_22_daysToHarvestSeedlings" = "45 दिवस";
+"vegetable_22_healthBenefits" = "फूलगोभीमध्ये फायबर, जीवनसत्त्वे व अँटीऑक्सिडंट्स असतात जे पचन सुधारतात आणि दाह कमी करतात.";
+
+//MARK: Pests for Cauliflower (vegetable_22)
+
+"pest_Cabbage Worms_name" = "कोबी अळी";
+"pest_Cabbage Worms_body" = "कोबी अळी ही एका पांढऱ्या फुलपाखराच्या अळ्या आहेत, ज्या ब्रॉकली, कोबी, फूलगोभीसारख्या भाज्यांवर मोठ्या प्रमाणात अन्न घेऊन नुकसान करतात.";
+"pest_Cabbage Worms_symptoms" = "पानांवर छिद्रे, चावलेली कडे आणि अळ्यांचा विष्ठेचा ठसा दिसतो. फार झाल्यास पानगळ होऊ शकते.";
+"pest_Cabbage Worms_treatment" = "हाताने अळ्या काढून टाका. फुलपाखरांपासून बचावासाठी रो कव्हर्स लावा. Bt किंवा स्पिनोसॅड फवारणी करा. पक्षी व परजीवी ततैया यांना आकर्षित करा.";
+
+"pest_Aphids_name" = "अ‍ॅफिड्स";
+"pest_Aphids_body" = "हे लहान व मऊ कीटक आहेत जे वनस्पतींच्या रसावर जगतात. ते लवकर वाढतात आणि पानांवर चिकटपणा निर्माण करतात.";
+"pest_Aphids_symptoms" = "पाने वाकडी होतात, पिवळी दिसतात आणि हनीड्यूमुळे कधी कधी काळी बुरशी लागते.";
+"pest_Aphids_treatment" = "लेडीबर्ड्स किंवा ततैया वापरा. पाणी मारून झाड धुवा किंवा नीम तेल वापरा.";
+
+"description_title" = "वर्णन";
+"symptoms_title" = "लक्षणे";
+"treatment_title" = "उपाय";
+"notes_title" = "नोंदी %d";
+
+"seed"="बीज";
+"seedling"="रोप";
+"Choose_an_option"="एक पर्याय निवडा";
+
+"vegetables_tab_title" = "भाज्या";
+"my_garden_tab_title" = "माझी बाग";
+"pests_tab_title" = "कीटक";
+"settings_tab_title" = "सेटिंग्ज";
+"select_language_title" = "भाषा निवडा";
+"language_settings_title" = "भाषा सेटिंग्ज";
+"English" = "इंग्रजी";
+"Hindi" = "हिंदी";
+"Marathi" = "मराठी";

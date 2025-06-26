@@ -1,0 +1,485 @@
+/*
+  Localizable.strings
+  FarmInfo
+
+  Created by Aditya on 25/06/25.
+*/
+
+//MARK: Vegetables
+"vegetable_4_name" = "Carrot";
+"vegetable_4_description" = "A versatile root vegetable commonly orange, but also available in purple, red, yellow, and white varieties. Carrots are known for their sweet flavor and high beta-carotene content, making them a nutritious addition to meals.";
+"vegetable_4_healthBenefits" = "Rich in beta-carotene, carrots promote eye health, boost immunity, and support healthy skin.";
+"vegetable_4_growingDescription" = "The seeds will start to sprout in couple of weeks. When watering the seeds make sure to avoid getting the leaves wet. The wetting of leaves can result in burning holes into the leaves from the sun.";
+"vegetable_4_harvestDescription" = "Harvest the carrots when bit that sticks out of the ground is the diameter of a quarter. Dig them up carefully so as not to damage the root.";
+"vegetable_4_seedDepth" = "1/4-1/2\" (6-13 mm)";
+"vegetable_4_watering" = "Moderate, keep soil moist";
+"vegetable_4_light" = "Full sun";
+"vegetable_4_goodCompanions" = "Onions, Leeks, Lettuce";
+"vegetable_4_badCompanions" = "Dill, Parsnips";
+
+"vegetable_7_name" = "Hot Pepper";
+"vegetable_7_description" = "A vibrant and fiery vegetable that adds spice to any dish. Hot peppers are prized for their heat levels, ranging from mild to extreme, and are rich in vitamin C and capsaicin.";
+"vegetable_7_healthBenefits" = "Hot peppers contain capsaicin, which may reduce pain, improve digestion, and boost metabolism.";
+"vegetable_7_growingDescription" = "Make sure that the soil is evenly moist. Pepper plants require at least 1.5 inch of water a week. You can conserve the moisture by putting mulch on the top of the soil.";
+"vegetable_7_harvestDescription" = "When the pepper has grown to a large size then it is time to harvest. The more you harvest the more peppers will be produced by the plants.";
+"vegetable_7_seedDepth" = "1/4\" (6 mm)";
+"vegetable_7_watering" = "Moderate to heavy, 1.5 inches per week";
+"vegetable_7_light" = "Full sun";
+"vegetable_7_goodCompanions" = "Basil, Carrots, Onions";
+"vegetable_7_badCompanions" = "Beans";
+
+"vegetable_8_name" = "Green Beans";
+"vegetable_8_description" = "A garden favorite and second only to tomatoes in popularity. Green beans are crisp, tender, and packed with fiber and essential vitamins, perfect for stir-fries or as a side dish.";
+"vegetable_8_healthBenefits" = "Packed with fiber and vitamins, green beans support digestion and overall immune health.";
+"vegetable_8_growingDescription" = "Make sure the area is clean and there are no weeds growing. Weeds can steal all nutrients from the green beans and this can result in killing of the green beans plant. Water your green beans every day. You can also include a layer of mulch to help control the weeds and make sure that the ground is moist.";
+"vegetable_8_harvestDescription" = "You can start harvesting green beans when they are long and firm. The more green beans you will pick the more it will produce.";
+"vegetable_8_seedDepth" = "1 inch (2.5 cm)";
+"vegetable_8_watering" = "Regular, keep soil evenly moist";
+"vegetable_8_light" = "Full sun";
+"vegetable_8_goodCompanions" = "Corn, Cucumbers, Strawberries";
+"vegetable_8_badCompanions" = "Onions, Garlic";
+
+
+"vegetable_9_name" = "Onion";
+"vegetable_9_description" = "A kitchen staple with a sharp and savory flavor. Onions are versatile and essential in countless recipes, from soups and stews to salads and sautés.";
+"vegetable_9_healthBenefits" = "Onions are rich in antioxidants and compounds that fight inflammation and boost heart health.";
+"vegetable_9_growingDescription" = "When choosing onions set make sure the onions are firm and plump. Dig a small hole only enough so that the tip of the onion is exposed outside.";
+"vegetable_9_harvestDescription" = "Harvest the onions in late Spring.";
+"vegetable_9_seedDepth" = "1/2 inch (13 mm)";
+"vegetable_9_watering" = "Light but consistent";
+"vegetable_9_light" = "Full sun";
+"vegetable_9_goodCompanions" = "Carrots, Lettuce, Beets";
+"vegetable_9_badCompanions" = "Beans, Peas";
+
+"vegetable_10_name" = "Tomato";
+"vegetable_10_description" = "A juicy and flavorful fruit often mistaken for a vegetable, tomatoes come in many varieties and colors. They're rich in lycopene, an antioxidant, and add vibrant taste to salads, sauces, and more.";
+"vegetable_10_healthBenefits" = "Rich in lycopene, tomatoes promote heart health, reduce inflammation, and support skin health.";
+"vegetable_10_growingDescription" = "Place the pots in a warm, sunny place. When the plants have grown several inches tall and have at least 3 leaves on each plant, they are ready for transplanting. Dig a small hole in the ground and put the plant in that hole. Make sure only 1/4 plant is sticking out of the ground. Immediately pour water in the hole.";
+"vegetable_10_harvestDescription" = "When the fruit turns red (or whatever color you planted), pick and enjoy the fruits of your labor. When you do, you will know that it was all worth it.";
+"vegetable_10_seedDepth" = "1/4 inch (6 mm)";
+"vegetable_10_watering" = "Consistent, 1–2 inches per week";
+"vegetable_10_light" = "Full sun";
+"vegetable_10_goodCompanions" = "Basil, Garlic, Marigold";
+"vegetable_10_badCompanions" = "Corn, Fennel";
+
+"vegetable_11_name" = "Radish";
+"vegetable_11_description" = "Radishes (Raphanus sativus) are crisp root vegetables known for their peppery flavor and vibrant colors, ranging from red and pink to white and purple. Commonly used in salads, slaws, and as garnishes, radishes add a refreshing crunch to dishes. They are low in calories and high in vitamin C, supporting immunity and promoting healthy digestion.";
+"vegetable_11_healthBenefits" = "Radishes are low in calories and high in fiber, promoting digestion and hydration.";
+"vegetable_11_growingDescription" = "Water the radishes daily as they are growing. The quick growth of radishes depends on evenly watering.";
+"vegetable_11_harvestDescription" = "Radishes are ready to harvest when their roots are about 1 inch (2.5 cm) in diameter. To harvest simply pull out the plant from the ground.";
+"vegetable_11_seedDepth" = "1/2\" (13 mm)";
+"vegetable_11_watering" = "Even and moderate";
+"vegetable_11_light" = "Full sun";
+"vegetable_11_goodCompanions" = "Bean, beet, carrot";
+"vegetable_11_badCompanions" = "Fennel";
+
+"vegetable_13_name" = "Arugula";
+"vegetable_13_description" = "Arugula (Eruca vesicaria), also known as rocket, is a leafy green vegetable with a distinctive peppery flavor. Often used in salads, sandwiches, and as a topping for pizzas, arugula adds a zesty, refreshing bite to dishes. It is rich in vitamins A, C, and K, as well as antioxidants, supporting bone health, immunity, and overall well-being.";
+"vegetable_13_healthBenefits" = "Rich in antioxidants and vitamins, arugula supports bone health and boosts immunity.";
+"vegetable_13_growingDescription" = "Please read the section on sowing.";
+"vegetable_13_harvestDescription" = "Harvest the leaves when they are 2 to 3 inches long. This will be achieved in 2 or 3 weeks after the plants germinate.";
+"vegetable_13_seedDepth" = "1/4\" (6 mm)";
+"vegetable_13_watering" = "Moderate and even";
+"vegetable_13_light" = "Full sun";
+"vegetable_13_goodCompanions" = "Bush bean, beet, carrot, celery, cucumber";
+"vegetable_13_badCompanions" = "Green beans, strawberry";
+
+
+"vegetable_14_name" = "Corn";
+"vegetable_14_description" = "Corn (Zea mays), also known as maize, is a versatile and widely cultivated cereal crop known for its sweet, tender kernels. It can be enjoyed fresh, grilled, boiled, or added to soups, salads, and casseroles. Rich in fiber, vitamins B and C, and antioxidants like lutein, corn supports healthy digestion, boosts immunity, and promotes eye health.";
+"vegetable_14_healthBenefits" = "Corn provides energy, is rich in antioxidants, and supports healthy vision with its lutein content.";
+"vegetable_14_growingDescription" = "Space the seeds and rows correctly. Row spacing should be 36\", and seed spacing per row should be 36\" also. The spacing is critical because corn needs other plants to pollinate in order to produce ears of corn.";
+"vegetable_14_harvestDescription" = "Touch the kernels on the ears after 3 weeks. They should be filled with milky liquid. Push the kernel and the liquid will burst out. This is sign that the corn is ready for harvesting.";
+"vegetable_14_seedDepth" = "1\" (2.5 cm)";
+"vegetable_14_watering" = "Moderate to heavy";
+"vegetable_14_light" = "Full sun";
+"vegetable_14_goodCompanions" = "Bush bean, beet, cabbage, cucumber, pea, squash";
+"vegetable_14_badCompanions" = "Tomato";
+
+
+
+//MARK: UI Labels
+"quick_facts_title" = "Quick Facts";
+"seed_depth_title" = "Seed Depth";
+"germination_temp_title" = "Germination Temp";
+"days_to_germination_title" = "Days to Germination";
+"days_unit" = "days";
+"light_requirement_title" = "Light Requirement";
+"watering_title" = "Watering";
+"companions_title" = "Companions";
+"bad_companions_title" = "Bad Companions";
+"health_benefits_title" = "Health Benefits";
+"pests_title" = "Pests";
+"growing_tips_title" = "Growing Tips";
+"harvest_tips_title" = "Harvest Tips";
+"na_value" = "N/A";
+"days_format" = "%d days"; // English
+"days"="Days";
+"Add_Note"="Add Note";
+
+
+//MARK: Pests
+"pests_title" = "Pests";
+
+"pest_Carrot Fly_name" = "Carrot Fly";
+"pest_Carrot Fly_body" = "The carrot fly (Psila rosae) is a small, black-bodied insect with an orange head and legs. It is a common pest affecting carrots, parsnips, celery, and other Apiaceae plants. The larvae burrow into the roots of these plants, causing damage that results in stunted growth, discoloration, and increased susceptibility to secondary infections.";
+"pest_Carrot Fly_symptoms" = "Rust-colored tunnels in the roots, yellowing and wilting foliage, and cracking of roots. Severely infested plants may rot and fail to thrive.";
+"pest_Carrot Fly_treatment" = "Use fine mesh netting to cover plants and prevent adult flies from laying eggs. Practice crop rotation to disrupt the lifecycle of the pest. Remove and destroy infested plants immediately to prevent the spread of larvae. Companion planting with strong-smelling plants such as onions or garlic can also deter carrot flies.";
+
+"pest_Aphids_name" = "Aphids";
+"pest_Aphids_body" = "Aphids are tiny, soft-bodied insects that can vary in color, including green, yellow, brown, red, or black. They feed on plant sap by piercing leaves and stems with their mouthparts. Aphids are a common pest in gardens and farms, often forming large colonies on new growth.";
+"pest_Aphids_symptoms" = "Infested plants may show curling or yellowing leaves, stunted growth, and sticky honeydew residue on foliage. The honeydew can attract ants and lead to the development of sooty mold on the plant surfaces.";
+"pest_Aphids_treatment" = "Introduce natural predators such as ladybugs and lacewings to control aphid populations. Spray plants with a strong jet of water to dislodge the insects. Apply neem oil or insecticidal soap for organic pest management. Remove and destroy heavily infested parts of the plant to prevent further spread.";
+
+"pest_Pepper Weevil_name" = "Pepper Weevil";
+"pest_Pepper Weevil_body" = "The pepper weevil (Anthonomus eugenii) is a small, dark-colored beetle with an oval body and a prominent snout. It is a significant pest of peppers and other Solanaceae plants, causing damage to flowers and fruits.";
+"pest_Pepper Weevil_symptoms" = "Premature dropping of flower buds and fruits, yellowing of stems and calyx, and feeding scars or punctures on fruits.";
+"pest_Pepper Weevil_treatment" = "Use pheromone traps and biological controls like Catolaccus hunteri. Remove infested fruits and rotate crops regularly.";
+
+"pest_Thrips_name" = "Thrips";
+"pest_Thrips_body" = "Thrips are tiny, slender insects that feed on plants by puncturing their surfaces and sucking out the contents. They damage leaves, flowers, and fruits.";
+"pest_Thrips_symptoms" = "Silvery streaks or stippling on leaves, distorted plant growth, and black fecal spots.";
+"pest_Thrips_treatment" = "Introduce lacewings and minute pirate bugs. Use sticky traps, neem oil, and remove affected plants.";
+
+"pest_Bean Beetle_name" = "Bean Beetle";
+"pest_Bean Beetle_body" = "Also called the cowpea weevil, it affects legumes by laying eggs on beans. Larvae feed inside, damaging seeds.";
+"pest_Bean Beetle_symptoms" = "Hollowed beans, larvae in seeds, reduced germination.";
+"pest_Bean Beetle_treatment" = "Store beans in airtight containers or freezer. Use parasitic wasps or safe insecticides.";
+
+"pest_Spider Mites_name" = "Spider Mites";
+"pest_Spider Mites_body" = "Tiny arachnids that suck plant sap, causing yellowing, bronzing, and webbing.";
+"pest_Spider Mites_symptoms" = "Stippled/yellow leaves, webbing, plant weakening.";
+"pest_Spider Mites_treatment" = "Spray with water, add predators like ladybugs, apply neem or horticultural oil.";
+
+"pest_Onion Fly_name" = "Onion Fly";
+"pest_Onion Fly_body" = "Grayish fly laying eggs on alliums; larvae (maggots) destroy bulbs.";
+"pest_Onion Fly_symptoms" = "Wilting, yellowing, rotting bulbs with visible maggots.";
+"pest_Onion Fly_treatment" = "Use netting, rotate crops, introduce nematodes, remove infested plants.";
+
+"pest_Tomato Hornworm_name" = "Tomato Hornworm";
+"pest_Tomato Hornworm_body" = "Large green caterpillar with a horn. Feeds on tomatoes, eggplants, and peppers.";
+"pest_Tomato Hornworm_symptoms" = "Chewed leaves, frass, large caterpillars.";
+"pest_Tomato Hornworm_treatment" = "Handpick, use Bt or spinosad, invite parasitic wasps.";
+
+"pest_Whitefly_name" = "Whitefly";
+"pest_Whitefly_body" = "Tiny moth-like insects under leaves, suck plant sap and spread diseases.";
+"pest_Whitefly_symptoms" = "Yellowing leaves, sticky honeydew, sooty mold.";
+"pest_Whitefly_treatment" = "Use ladybugs, sticky traps, neem oil. Remove infected leaves.";
+
+//MARK: Pests for Hot Pepper (vegetable_7)
+
+"pest_Pepper Weevil_name" = "Pepper Weevil";
+"pest_Pepper Weevil_body" = "The pepper weevil (Anthonomus eugenii) is a small, dark-colored beetle with an oval body and a prominent snout. It is a significant pest of peppers and other Solanaceae plants, causing damage to flowers and fruits.";
+"pest_Pepper Weevil_symptoms" = "Premature dropping of flower buds and fruits, yellowing of stems and calyx, and feeding scars or punctures on fruits.";
+"pest_Pepper Weevil_treatment" = "Use pheromone traps and biological controls like Catolaccus hunteri. Remove infested fruits and rotate crops regularly.";
+
+"pest_Aphids_name" = "Aphids";
+"pest_Aphids_body" = "Small soft-bodied insects that suck plant sap, causing distortion and yellowing of leaves.";
+"pest_Aphids_symptoms" = "Curling, yellowing leaves, sticky honeydew secretion.";
+"pest_Aphids_treatment" = "Introduce natural predators like ladybugs, spray with neem oil or insecticidal soap.";
+
+//MARK: Pests for Green Beans (vegetable_8)
+
+"pest_Bean Beetle_name" = "Bean Beetle";
+"pest_Bean Beetle_body" = "Also called the cowpea weevil, it affects legumes by laying eggs on beans. Larvae feed inside, damaging seeds.";
+"pest_Bean Beetle_symptoms" = "Hollowed beans, larvae in seeds, reduced germination.";
+"pest_Bean Beetle_treatment" = "Store beans in airtight containers or freezer. Use parasitic wasps or safe insecticides.";
+
+"pest_Thrips_name" = "Thrips";
+"pest_Thrips_body" = "Tiny insects that feed on plants by puncturing surfaces and sucking contents.";
+"pest_Thrips_symptoms" = "Silvery streaks on leaves, distorted growth, black fecal spots.";
+"pest_Thrips_treatment" = "Use sticky traps, neem oil, and introduce natural predators like lacewings.";
+
+//MARK: Pests for Onion (vegetable_9)
+
+"pest_Onion Fly_name" = "Onion Fly";
+"pest_Onion Fly_body" = "Grayish fly laying eggs on alliums; larvae (maggots) destroy bulbs.";
+"pest_Onion Fly_symptoms" = "Wilting, yellowing, rotting bulbs with visible maggots.";
+"pest_Onion Fly_treatment" = "Use netting, rotate crops, introduce nematodes, remove infested plants.";
+
+"pest_Aphids_name" = "Aphids";
+"pest_Aphids_body" = "Soft-bodied insects feeding on sap causing leaf curling and yellowing.";
+"pest_Aphids_symptoms" = "Curling/yellowing leaves, sticky honeydew.";
+"pest_Aphids_treatment" = "Introduce ladybugs, spray neem oil or insecticidal soap.";
+
+//MARK: Pests for Tomato (vegetable_10)
+
+"pest_Tomato Hornworm_name" = "Tomato Hornworm";
+"pest_Tomato Hornworm_body" = "Large green caterpillar with horn feeding on tomatoes, eggplants, and peppers.";
+"pest_Tomato Hornworm_symptoms" = "Chewed leaves, droppings (frass), large caterpillars visible.";
+"pest_Tomato Hornworm_treatment" = "Handpick caterpillars, use Bt or spinosad sprays, invite parasitic wasps.";
+
+"pest_Whitefly_name" = "Whitefly";
+"pest_Whitefly_body" = "Tiny moth-like insects on undersides of leaves, sucking sap and spreading disease.";
+"pest_Whitefly_symptoms" = "Yellowing leaves, sticky honeydew, sooty mold development.";
+"pest_Whitefly_treatment" = "Use ladybugs, sticky traps, neem oil, and remove infected leaves.";
+
+//MARK: Pests for Radish (vegetable_11)
+
+"pest_Root Maggot_name" = "Root Maggot";
+"pest_Root Maggot_body" = "Larvae of flies that tunnel into radish roots, causing damage and decay.";
+"pest_Root Maggot_symptoms" = "Wilting plants, tunnels inside roots, root rot.";
+"pest_Root Maggot_treatment" = "Use row covers to prevent egg laying, practice crop rotation, and remove infested plants.";
+
+"pest_Aphids_name" = "Aphids";
+"pest_Aphids_body" = "Small sap-sucking insects causing distortion and yellowing.";
+"pest_Aphids_symptoms" = "Leaf curling, sticky honeydew, mold growth.";
+"pest_Aphids_treatment" = "Introduce ladybugs or lacewings, spray with neem oil or insecticidal soap.";
+
+//MARK: Pests for Arugula (vegetable_13)
+
+"pest_Cabbage Worm_name" = "Cabbage Worm";
+"pest_Cabbage Worm_body" = "Green caterpillars that feed on leaves, creating holes and skeletonizing foliage.";
+"pest_Cabbage Worm_symptoms" = "Holes in leaves, chewed edges, presence of green caterpillars.";
+"pest_Cabbage Worm_treatment" = "Handpick caterpillars, use Bt sprays, or encourage natural predators.";
+
+"pest_Flea Beetle_name" = "Flea Beetle";
+"pest_Flea Beetle_body" = "Small jumping beetles that chew small holes in leaves.";
+"pest_Flea Beetle_symptoms" = "Small shot holes in leaves, reduced growth.";
+"pest_Flea Beetle_treatment" = "Use row covers, insecticidal soap, and rotate crops.";
+
+//MARK: Pests for Corn (vegetable_14)
+
+"pest_Corn Earworm_name" = "Corn Earworm";
+"pest_Corn Earworm_body" = "Larvae that bore into corn ears, feeding on kernels and causing damage.";
+"pest_Corn Earworm_symptoms" = "Damaged kernels, presence of larvae in ears.";
+"pest_Corn Earworm_treatment" = "Apply insecticides at silking, remove infested ears, and encourage natural predators.";
+
+"pest_Spider Mites_name" = "Spider Mites";
+"pest_Spider Mites_body" = "Tiny arachnids that suck plant sap, causing yellowing, bronzing, and webbing.";
+"pest_Spider Mites_symptoms" = "Yellow stippled leaves, webbing, plant weakening.";
+"pest_Spider Mites_treatment" = "Spray with water, add ladybugs, apply neem or horticultural oil.";
+
+
+//MARK: Vegetables
+
+"vegetable_16_name" = "Cucumber";
+"vegetable_16_description" = "Cucumbers (Cucumis sativus) are refreshing, crisp vegetables with a mild flavor, widely enjoyed raw in salads, sandwiches, and as a hydrating snack. Known for their high water content, cucumbers help promote hydration and support healthy skin. They are also a good source of vitamins K and C, as well as antioxidants, aiding digestion and reducing inflammation. Thriving in warm climates and well-drained soil, cucumbers are a popular and easy-to-grow choice for home gardens.";
+"vegetable_16_seedDepth" = "1/2-1\" (13-25 mm)";
+"vegetable_16_germinationSoilTemp" = "80-95 F (27-35 C)";
+"vegetable_16_daysToGermination" = "4 days";
+"vegetable_16_sowIndoors" = "3 weeks before frost";
+"vegetable_16_sowOutdoors" = "After last frost";
+"vegetable_16_phRange" = "6.0-7.0";
+"vegetable_16_growingSoilTemp" = "70-80 F (21-27 C)";
+"vegetable_16_spacingBeds" = "36 \" (90 cm)";
+"vegetable_16_watering" = "Start moderate end heavy";
+"vegetable_16_light" = "Full sun";
+"vegetable_16_goodCompanions" = "Bush bean, broccoli, cabbage family, eggplant";
+"vegetable_16_badCompanions" = "Potato";
+"vegetable_16_sowingDescription" = "You can start planting cucumbers indoors. Cucumber plants are not fond of being transplanted. Take extreme caution and care when putting them into the outside soil. When cucumber planted in rows then seeds should be 2\" to 3\" apart.";
+"vegetable_16_growingDescription" = "Cucumber plants require well drained soil. Provide plenty of  high nitrogen fertilizer. Also make sure to provide lots of water, for fast growth.";
+"vegetable_16_harvestDescription" = "Harvest cucumbers for fresh eating when they are between 7-9 inches long and have bright dark green color. Larger sizes of cucumbers have bitter taste.";
+"vegetable_16_season" = "Summer";
+"vegetable_16_daysToHarvestSeeds" = "45 days";
+"vegetable_16_daysToHarvestSeedlings" = "30 days";
+"vegetable_16_healthBenefits" = "Cucumbers are hydrating and rich in antioxidants, promoting healthy skin and digestion.";
+
+//MARK: Pests for Cucumber (vegetable_16)
+
+"pest_Cucumber Beetles_name" = "Cucumber Beetles";
+"pest_Cucumber Beetles_body" = "Cucumber beetles are small, colorful beetles with either yellow and black stripes or spots, depending on the species. They are a significant pest for cucurbit plants like cucumbers, squash, melons, and pumpkins. In addition to feeding on plant foliage, flowers, and fruit, they can spread bacterial wilt and other plant diseases.";
+"pest_Cucumber Beetles_symptoms" = "Plants infested with cucumber beetles may show chewed leaves and flowers, scarring on fruit, and stunted growth. Signs of bacterial wilt, such as leaf wilting and eventual plant death, can also indicate cucumber beetle activity.";
+"pest_Cucumber Beetles_treatment" = "Use floating row covers to protect young plants from beetles. Apply neem oil or insecticidal soap to deter feeding. Introduce beneficial insects such as tachinid flies and soldier beetles to help control populations. Practice crop rotation and remove plant debris at the end of the growing season to reduce overwintering sites.";
+
+"pest_Squash Bugs_name" = "Squash Bugs";
+"pest_Squash Bugs_body" = "Squash bugs (Anasa tristis) are common pests that attack plants in the cucurbit family, including squash, pumpkins, and zucchini. They are shield-shaped, brownish-gray insects that feed on plant sap, causing significant damage to crops. Squash bugs are particularly harmful during the early growth stages of plants.";
+"pest_Squash Bugs_symptoms" = "Infested plants may show yellowing and wilting leaves, with browning or black spots at feeding sites. Severely affected plants may have dried, crispy leaves and stunted growth. Eggs can often be found in clusters on the undersides of leaves.";
+"pest_Squash Bugs_treatment" = "Handpick squash bugs and destroy them to reduce their population. Remove egg clusters from leaves and dispose of them. Use floating row covers to protect young plants. Apply neem oil or insecticidal soaps to manage infestations. Keep the garden clean by removing plant debris, which can harbor overwintering squash bugs.";
+
+//MARK: Vegetables - Eggplant
+
+"vegetable_17_name" = "Eggplant";
+"vegetable_17_description" = "Eggplants (Solanum melongena), also known as aubergines, are glossy, deep purple vegetables with a spongy texture and mild flavor. They are incredibly versatile in cooking, often used in dishes such as ratatouille, curries, and casseroles, or grilled and roasted. Eggplants are rich in fiber, antioxidants like nasunin, and vitamins B and K, supporting heart health, brain function, and digestion. Thriving in warm climates with full sunlight, eggplants are a staple in both home gardens and global cuisines.";
+"vegetable_17_seedDepth" = "1/4 \" (6 mm)";
+"vegetable_17_germinationSoilTemp" = "85 F (29 C)";
+"vegetable_17_daysToGermination" = "7 days";
+"vegetable_17_sowIndoors" = "5 weeks before frost";
+"vegetable_17_sowOutdoors" = "Not recommended";
+"vegetable_17_phRange" = "5.5 - 7.0";
+"vegetable_17_growingSoilTemp" = "80-90 F (27-32 C)";
+"vegetable_17_spacingBeds" = "18\" (45 cm)";
+"vegetable_17_watering" = "Heavy";
+"vegetable_17_light" = "Full sun";
+"vegetable_17_goodCompanions" = "Bush bean, pea, pepper, potato";
+"vegetable_17_badCompanions" = "Fennel";
+"vegetable_17_sowingDescription" = "Sow eggplant seeds in small pots 1/4 inch deep. Water the seeds well and make sure they remain moist. You can also cover the pots with plastic. This will allow you to monitor the moisture in the seeds. If you do not see moisture on the plastic then it is time to add more water.";
+"vegetable_17_growingDescription" = "After putting the plants in the garden use a row cover along side with mulch to provide steady heat and protection against the insects. Eggplant is one of the favorite plant for most of the insects. Make sure you protect it against the insects. This can be accomplished by growing the eggplant beneath the row covers.";
+"vegetable_17_harvestDescription" = "Harvest eggplants anytime they have reached half their mature size. This will provide tender and delicious eggplants. When cutting the eggplants leave some stem attached to the plant.";
+"vegetable_17_season" = "Summer";
+"vegetable_17_daysToHarvestSeeds" = "80 days";
+"vegetable_17_daysToHarvestSeedlings" = "60 days";
+"vegetable_17_healthBenefits" = "Eggplants contain antioxidants like nasunin, which protect brain function and reduce inflammation.";
+
+//MARK: Pests for Eggplant (vegetable_17)
+
+"pest_Flea Beetles_name" = "Flea Beetles";
+"pest_Flea Beetles_body" = "Flea beetles are small, jumping insects that attack a wide range of plants, including vegetables like tomatoes, potatoes, eggplants, and leafy greens. These beetles are named for their ability to jump like fleas when disturbed. Their feeding behavior creates small holes in leaves, giving them a 'shot-hole' appearance.";
+"pest_Flea Beetles_symptoms" = "Plants infested with flea beetles exhibit small, round holes in leaves, often resembling shotgun damage. Young seedlings are particularly vulnerable, and heavy infestations can lead to stunted growth, reduced vigor, and even plant death.";
+"pest_Flea Beetles_treatment" = "Use floating row covers to protect seedlings from flea beetles. Apply diatomaceous earth around plants to deter them. Neem oil and insecticidal soaps are effective organic treatments. Plant trap crops like radishes to lure beetles away from main crops, and practice crop rotation to minimize future infestations.";
+
+"pest_Spider Mites_name" = "Spider Mites";
+"pest_Spider Mites_body" = "Spider mites are tiny arachnids that feed on plant sap, often found on the undersides of leaves. They are particularly problematic in hot, dry conditions and can infest a wide range of plants, including vegetables, fruits, and ornamental plants. Spider mites are known for their ability to produce fine webbing on plants.";
+"pest_Spider Mites_symptoms" = "Infested plants may exhibit stippled or yellowing leaves with a bronze or dusty appearance. In severe infestations, leaves may drop prematurely, and fine webbing can be found on the undersides of leaves or between plant stems.";
+"pest_Spider Mites_treatment" = "Spray plants with a strong jet of water to dislodge spider mites. Introduce natural predators like ladybugs or predatory mites. Use horticultural oils, neem oil, or insecticidal soaps to control populations. Maintain adequate humidity levels and ensure proper watering to reduce infestations.";
+
+//MARK: Vegetables - Celery
+
+"vegetable_18_name" = "Celery";
+"vegetable_18_description" = "Celery (Apium graveolens) is a crisp, fibrous vegetable known for its mild, refreshing flavor and versatility in cooking. Often enjoyed raw as a snack, added to salads, or used as a base in soups and stews, celery adds both flavor and texture to dishes. It is low in calories and high in antioxidants, vitamins K and C, and dietary fiber, supporting digestion, reducing inflammation, and promoting heart health. Celery thrives in cool, moist conditions, making it a rewarding crop for home gardens.";
+"vegetable_18_seedDepth" = "Just cover";
+"vegetable_18_germinationSoilTemp" = "70 F (21 C)";
+"vegetable_18_daysToGermination" = "7 days";
+"vegetable_18_sowIndoors" = "10 weeks before frost";
+"vegetable_18_sowOutdoors" = "Not recommended";
+"vegetable_18_phRange" = "6.0-7.0";
+"vegetable_18_growingSoilTemp" = "60-70 F (16-21 C)";
+"vegetable_18_spacingBeds" = "8\" (20 cm)";
+"vegetable_18_watering" = "Heavy and even";
+"vegetable_18_light" = "Full sun";
+"vegetable_18_goodCompanions" = "Everything";
+"vegetable_18_badCompanions" = "Carrot, parsley, parsnip";
+"vegetable_18_sowingDescription" = "Prepare the soil by adding manure or compost. To give head start to celery soak the seeds in water for 2 days. Make sure that the outside temperature is at least 55 F. Plant the seeds and cover it with the soil.";
+"vegetable_18_growingDescription" = "During germination period make sure that the soil is moist. Water lightly on the seeds as you do not want the seeds to wash away. Use mulch around the plant to keep the moisture inside the soil. Mulch will also make sure that there are no weeds growing near the celery plant.";
+"vegetable_18_harvestDescription" = "In about 5 months you will be ready to harvest the plant. You can harvest the complete plant right at the bottom.";
+"vegetable_18_season" = "Summer,Spring,Fall,Winter";
+"vegetable_18_daysToHarvestSeeds" = "80 days";
+"vegetable_18_daysToHarvestSeedlings" = "56 days";
+"vegetable_18_healthBenefits" = "Celery is low in calories and high in antioxidants, supporting heart health and reducing inflammation.";
+
+//MARK: Pests for Celery (vegetable_18)
+
+"pest_Aphids_name" = "Aphids";
+"pest_Aphids_body" = "Aphids are small, soft-bodied insects that come in a variety of colors, including green, yellow, brown, red, and black. They feed on plant sap by piercing stems, leaves, and buds with their mouthparts. Aphids reproduce rapidly and are common pests on vegetables, fruits, and ornamental plants.";
+"pest_Aphids_symptoms" = "Infested plants may exhibit curling or yellowing leaves, stunted growth, and sticky honeydew on leaves and stems. This honeydew can lead to the development of sooty mold, which further hampers photosynthesis. Large colonies of aphids are often visible on new growth or the undersides of leaves.";
+"pest_Aphids_treatment" = "Introduce natural predators such as ladybugs, lacewings, or parasitic wasps to control aphid populations. Spray plants with a strong jet of water to dislodge aphids. Apply neem oil or insecticidal soap as an organic treatment. Regularly inspect plants for early signs of infestation and remove heavily infested leaves or stems.";
+
+"pest_Carrot Weevils_name" = "Carrot Weevils";
+"pest_Carrot Weevils_body" = "Carrot weevils (Listronotus oregonensis) are small, dark brown beetles that target carrots and other related plants, such as celery and parsley. The adults feed on foliage, while the larvae burrow into the roots, causing significant damage and reducing crop quality.";
+"pest_Carrot Weevils_symptoms" = "Infested carrots may show small holes or tunnels in the roots, which can lead to discoloration, secondary infections, and rotting. Plants may appear stunted or wilted, especially in severe infestations.";
+"pest_Carrot Weevils_treatment" = "Use floating row covers to prevent adult weevils from laying eggs near the plants. Remove plant debris and weeds in and around the garden to eliminate overwintering sites. Practice crop rotation to break the pest's life cycle. Beneficial nematodes can be applied to the soil to target larvae, and insecticides can be used if necessary.";
+
+//MARK: Vegetables - Broccoli
+
+"vegetable_19_name" = "Broccoli";
+"vegetable_19_description" = "Broccoli (Brassica oleracea var. italica) is a nutrient-rich vegetable known for its tree-like florets and mild, slightly bitter flavor. A staple in healthy diets, broccoli can be enjoyed steamed, roasted, stir-fried, or raw in salads. It is packed with vitamins C and K, fiber, and antioxidants, supporting immune health, bone strength, and digestion. Thriving in cool climates and well-drained soil, broccoli is a favorite among gardeners for its high nutritional value and culinary versatility.";
+"vegetable_19_seedDepth" = "1/4\" (6 mm)";
+"vegetable_19_germinationSoilTemp" = "80 F (27 C)";
+"vegetable_19_daysToGermination" = "7 days";
+"vegetable_19_sowIndoors" = "7 weeks before frost";
+"vegetable_19_sowOutdoors" = "Early summer";
+"vegetable_19_phRange" = "6.5-7.5";
+"vegetable_19_growingSoilTemp" = "60-65 F (16-18 C)";
+"vegetable_19_spacingBeds" = "16\" (40 cm)";
+"vegetable_19_watering" = "Moderate and even";
+"vegetable_19_light" = "Full sun or partial shade";
+"vegetable_19_goodCompanions" = "Bush bean, beet, carrot, celery";
+"vegetable_19_badCompanions" = "Pole and snap beans, strawberry";
+"vegetable_19_sowingDescription" = "Broccoli is not a fast grower. You can start broccoli indoors 4-6 weeks before transplanting. Broccoli does best in full sun. So pick an area which receives at least 8 hours of full sunlight. Add compost and manure in the garden bed. This will ensure that the soil is rich with nutrients. Plant broccoli in spring or fall.";
+"vegetable_19_growingDescription" = "Broccoli plants love moisture so make sure that the soil is nice and moist. Look out for weeds and make sure that the plant is free of weeds and insects.";
+"vegetable_19_harvestDescription" = "Broccoli takes approximately 60-70 days to mature. Use a knife to cut the bud just below the head.";
+"vegetable_19_season" = "Fall,Spring,Summer,Winter";
+"vegetable_19_daysToHarvestSeeds" = "75 days";
+"vegetable_19_daysToHarvestSeedlings" = "60 days";
+"vegetable_19_healthBenefits" = "Broccoli is rich in vitamins C and K, as well as fiber and antioxidants that support immune health.";
+
+//MARK: Pests for Broccoli (vegetable_19)
+
+"pest_Cabbage Worms_name" = "Cabbage Worms";
+"pest_Cabbage Worms_body" = "Cabbage worms are the larvae of the small white butterfly (Pieris rapae), a common pest of cruciferous vegetables like cabbage, broccoli, kale, and cauliflower. These green caterpillars have a velvety texture and are voracious feeders, causing significant damage to plants.";
+"pest_Cabbage Worms_symptoms" = "Infested plants exhibit holes in leaves, chewed edges, and frass (caterpillar droppings) on the foliage. In severe cases, defoliation can occur, reducing plant growth and yield.";
+"pest_Cabbage Worms_treatment" = "Handpick cabbage worms from plants and dispose of them to control small infestations. Use floating row covers to prevent butterflies from laying eggs. Apply Bacillus thuringiensis (Bt) or spinosad-based insecticides for organic control. Encourage natural predators, such as birds or parasitic wasps, in the garden.";
+
+//MARK: Vegetables - Lettuce
+
+"vegetable_21_name" = "Lettuce";
+"vegetable_21_description" = "Lettuce (Lactuca sativa) is a leafy green vegetable prized for its crisp texture and mild, refreshing flavor. Commonly used as the base for salads, it is also enjoyed in wraps, sandwiches, and as a garnish. Lettuce is low in calories and rich in vitamins A and K, as well as water content, promoting hydration, skin health, and bone strength. Thriving in cool climates and well-drained soil, lettuce is a quick-growing crop that is easy to cultivate in home gardens.";
+"vegetable_21_seedDepth" = "1/4-1/2\" (6-13 mm)";
+"vegetable_21_germinationSoilTemp" = "40-60 F (4-16 C)";
+"vegetable_21_daysToGermination" = "14 days";
+"vegetable_21_sowIndoors" = "4 weeks before transplant";
+"vegetable_21_sowOutdoors" = "On worked soil";
+"vegetable_21_phRange" = "6.5-7.0";
+"vegetable_21_growingSoilTemp" = "55-65 F (13-18 C)";
+"vegetable_21_spacingBeds" = "1/2\" (1.3 cm)";
+"vegetable_21_watering" = "Light to moderate";
+"vegetable_21_light" = "Full sun";
+"vegetable_21_goodCompanions" = "Carrot, endive, artichoke";
+"vegetable_21_badCompanions" = "None";
+"vegetable_21_sowingDescription" = "Lettuce is a cold temperature vegetable. You can buy lettuce plants at the nursery. Spring time is the best time to plant vegetable seeds outdoors. Choose a site which gets full sun in cool weather.";
+"vegetable_21_growingDescription" = "Lettuce comes in many different varieties so make sure the distance between each plant depends on the type of lettuce. Ensure the soil is moist but not overwatered. Excess water can cause fungus or root rot.";
+"vegetable_21_harvestDescription" = "As soon as the leaves are big enough you can cut them for harvest. Harvest the lettuce when the heads are firm and fully formed.";
+"vegetable_21_season" = "Fall,Spring,Summer,Winter";
+"vegetable_21_daysToHarvestSeeds" = "75 days";
+"vegetable_21_daysToHarvestSeedlings" = "60 days";
+"vegetable_21_healthBenefits" = "Lettuce is low in calories and high in vitamins, supporting hydration and overall health.";
+
+//MARK: Pests for Lettuce (vegetable_21)
+
+"pest_Aphids_name" = "Aphids";
+"pest_Aphids_body" = "Aphids are tiny, soft-bodied insects that feed on plant sap by piercing stems, leaves, and buds with their mouthparts. They can range in color from green, yellow, black, and red to brown, depending on the species. Aphids reproduce quickly and often form large colonies, making them a persistent pest for many types of plants, including vegetables, fruits, and ornamentals.";
+"pest_Aphids_symptoms" = "Infested plants may show signs of curling, yellowing, or distorted leaves, stunted growth, and the presence of sticky honeydew on the foliage. This honeydew can attract ants and lead to the growth of sooty mold, which blocks sunlight and reduces photosynthesis.";
+"pest_Aphids_treatment" = "Introduce beneficial insects such as ladybugs, lacewings, and parasitic wasps to naturally control aphid populations. Spray infested plants with a strong stream of water to dislodge aphids. Apply neem oil or insecticidal soap for organic control. Remove heavily infested leaves or stems to prevent further spread, and practice regular monitoring to catch infestations early.";
+
+"pest_Leaf Miners_name" = "Leaf Miners";
+"pest_Leaf Miners_body" = "Leaf miners are the larvae of various insect species, including flies, beetles, and moths. These pests feed between the upper and lower surfaces of leaves, creating distinctive winding tunnels or blotches. Leaf miners commonly infest vegetables, ornamental plants, and fruit trees.";
+"pest_Leaf Miners_symptoms" = "Infested leaves exhibit white or translucent, winding trails (mines) caused by the larvae feeding inside. Over time, these trails may turn brown, and leaves may become distorted, discolored, or drop prematurely. Severe infestations can reduce plant vigor and photosynthesis.";
+"pest_Leaf Miners_treatment" = "Remove and destroy infested leaves to prevent the larvae from maturing. Apply neem oil or insecticidal soap to deter adult leaf miners from laying eggs. Introduce beneficial insects such as parasitic wasps to control leaf miner populations. Use floating row covers to protect plants from adult insects.";
+
+//MARK: Vegetables - Cauliflower
+
+"vegetable_22_name" = "Cauliflower";
+"vegetable_22_description" = "Cauliflower (Brassica oleracea var. botrytis) is a versatile cruciferous vegetable known for its compact white florets and mild, nutty flavor. It can be enjoyed roasted, steamed, mashed, or as a low-carb substitute for rice or pizza crust. Rich in vitamins C and K, fiber, and antioxidants, cauliflower supports immune health, bone strength, and digestion. Thriving in cool climates and fertile, well-drained soil, it is a popular choice for home gardeners and a staple in healthy cooking.";
+"vegetable_22_seedDepth" = "1/4-1/2\" (6-13 mm)";
+"vegetable_22_germinationSoilTemp" = "80 F (27 C)";
+"vegetable_22_daysToGermination" = "6 days";
+"vegetable_22_sowIndoors" = "4-6 weeks before frost";
+"vegetable_22_sowOutdoors" = "Frost to late spring";
+"vegetable_22_phRange" = "6.5-7.5";
+"vegetable_22_growingSoilTemp" = "60-70 F (16-21 C)";
+"vegetable_22_spacingBeds" = "15\" (37.5 cm)";
+"vegetable_22_watering" = "Moderate and even";
+"vegetable_22_light" = "Full sun";
+"vegetable_22_goodCompanions" = "Bush bean, beet, carrot, celery, cucumber, spinach";
+"vegetable_22_badCompanions" = "Green beans, strawberry";
+"vegetable_22_sowingDescription" = "Cauliflower belongs to the cabbage family. Like other family members, cauliflower relies on soil rich in nitrogen. Mix organic matter and compost with the soil to provide nitrogen and nutrients. Plant the seeds 4-6 weeks before the last frost. Seeds should be 1/4 to 1/2 inch deep. Keep the soil moist, but avoid overwatering.";
+"vegetable_22_growingDescription" = "Cauliflower requires constant moisture, so water it accordingly. Apply mulch to retain soil moisture and suppress weeds. To speed growth, you can also use fish fertilizer.";
+"vegetable_22_harvestDescription" = "When the cauliflower head reaches 6 to 12 inches, it’s time to harvest. Cut the buds just below the head and enjoy your crop.";
+"vegetable_22_season" = "Fall";
+"vegetable_22_daysToHarvestSeeds" = "60 days";
+"vegetable_22_daysToHarvestSeedlings" = "45 days";
+"vegetable_22_healthBenefits" = "Cauliflower is rich in vitamins and antioxidants that promote digestion and reduce inflammation.";
+
+//MARK: Pests for Cauliflower (vegetable_22)
+
+"pest_Cabbage Worms_name" = "Cabbage Worms";
+"pest_Cabbage Worms_body" = "Cabbage worms are the larvae of the small white butterfly (Pieris rapae), a common pest of cruciferous vegetables such as cabbage, broccoli, kale, and cauliflower. These velvety green caterpillars are voracious feeders and can cause significant damage to crops.";
+"pest_Cabbage Worms_symptoms" = "Infested plants exhibit holes in leaves, chewed edges, and the presence of frass (caterpillar droppings) on the foliage. Severe infestations can result in defoliation, reduced plant growth, and poor-quality harvests.";
+"pest_Cabbage Worms_treatment" = "Handpick cabbage worms from plants and dispose of them to manage small infestations. Use floating row covers to prevent butterflies from laying eggs on plants. Apply Bacillus thuringiensis (Bt) or spinosad-based insecticides for organic control. Encourage natural predators, such as birds or parasitic wasps, to help reduce cabbage worm populations.";
+
+"pest_Aphids_name" = "Aphids";
+"pest_Aphids_body" = "Aphids are small, soft-bodied insects that feed on plant sap by piercing stems, leaves, and buds with their mouthparts. They come in a variety of colors, including green, yellow, black, red, and brown. Aphids reproduce quickly and can form large colonies, causing significant damage to plants.";
+"pest_Aphids_symptoms" = "Infested plants may show curled, yellowed, or distorted leaves. Stunted growth and sticky honeydew on the foliage are common. This can attract ants and promote sooty mold, which blocks sunlight and impairs photosynthesis.";
+"pest_Aphids_treatment" = "Introduce beneficial insects like ladybugs, lacewings, and parasitic wasps. Spray plants with a strong stream of water to dislodge aphids. Use neem oil or insecticidal soaps. Monitor regularly and remove heavily infested plant parts.";
+
+
+"description_title" = "Description";
+"symptoms_title" = "Symptoms";
+"treatment_title" = "Treatment";
+
+"notes_title" = "Notes %d";
+
+"seed"="Seed";
+"seedling"="Seedling";
+"Choose_an_option"="Choose an Option";
+
+
+"vegetables_tab_title" = "Vegetables";
+"my_garden_tab_title" = "My Garden";
+"pests_tab_title" = "Pests";
+"settings_tab_title" = "Settings";
+"select_language_title" = "Select Language";
+"language_settings_title" = "Language Settings";
+"English" = "English";
+"Hindi" = "Hindi";
+"Marathi" = "Marathi";
