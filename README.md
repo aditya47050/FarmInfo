@@ -62,10 +62,23 @@
 🙋‍♂️ Author :
 Aditya Kiran Mandhare
 
-💼 LinkedIn = https://www.linkedin.com/in/aditya-mandhare-00217a26b
+💼 LinkedIn => https://www.linkedin.com/in/aditya-mandhare-00217a26b
 
-💻 GitHub - https://github.com/aditya47050
+💻 GitHub => https://github.com/aditya47050
 
-📧 adityamandhare47050@gmail.com
+📧 => adityamandhare47050@gmail.com
+
+## 📸 ScreenShot Preview Of iOS app :
+
+<img src="screenshots/Vegetables_eng.png" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/Pests_eng.png" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/Details_eng.png" alt="Vegetable List" width="200" height="400"/>
+
+<img src="screenshots/myGarden_eng.png" alt="Vegetable List" width="200" height="400"/><img src="screenshots/Details2_eng.png" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/seed.png" alt="Vegetable List" width="200" height="400"/>
+
+## 🌏 Multilanguage Support :
+
+<img src="screenshots/language_eng.png" alt="Vegetable List" width="200" height="400"/><img src="screenshots/language_mar.png" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/pests_mar.png" alt="Vegetable List" width="200" height="400"/>
+
+<img src="screenshots/myGarden_mar.png" alt="Vegetable List" width="200" height="400"/><img src="screenshots/pests_detail_eng.png" alt="Vegetable List" width="200" height="400"/> <img src="screenshots/notes.png" alt="Vegetable List" width="200" height="400"/>
+
 
 
