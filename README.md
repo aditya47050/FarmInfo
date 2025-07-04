@@ -1,6 +1,6 @@
-# 🌾 FarmInfo
+# 🌾 AgroBharatInfo
 
-**FarmInfo** is a beautifully designed SwiftUI-based mobile application that provides multilingual, localized information about Indian vegetables and their pests, tailored to help home gardeners and small-scale farmers. The app also allows users to manage their garden, take planting notes, and track harvest timelines.
+**AgroBharatInfoInfo** is a beautifully designed SwiftUI-based mobile application that provides multilingual, localized information about Indian vegetables and their pests, tailored to help home gardeners and small-scale farmers. The app also allows users to manage their garden, take planting notes, and track harvest timelines.
 
 ---
 
